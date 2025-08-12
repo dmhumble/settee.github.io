@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2025/08/12/one-of-the-things-im.html",
+				
+				"content_html": "<p>one of the things i&rsquo;m really interested in doing is setting up a very fast local network attached ai rendering farm for all things audio, images and video. for now i&rsquo;m playing with things like <a href=\"https://jan.ai\">jan.ai</a> to see what kind of token performance i can get, will maybe go llmstudio.</p>\n",
+				"content_text": "one of the things i'm really interested in doing is setting up a very fast local network attached ai rendering farm for all things audio, images and video. for now i'm playing with things like [jan.ai](https://jan.ai) to see what kind of token performance i can get, will maybe go llmstudio.\n",
+				"date_published": "2025-08-12T11:01:51-04:00",
+				"url": "https://sett.ee/2025/08/12/one-of-the-things-im.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2025/08/11/is-a-fast-day-or.html",
 				
 				"content_html": "<p>is a fast day or a slow day, is there any such thing as a slow day anymore? speed run out this morning to grab eggs and coffee and post, back made a protein cheesecake, tested new audio interface for phone and IEM&rsquo;s. fantastic, also got a new usb-c mic setup to try now phone upgraded #winning</p>\n",

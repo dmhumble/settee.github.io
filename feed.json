@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2025/09/15/good-morning-got-loads-of.html",
+				
+				"content_html": "<p>good morning. got loads of sleep but not quite hitting the restoring sleep that i need. still you gotta work with what you have right, half way through september. the speed of months is mildly terrifying at this rate i&rsquo;ll be wrapping presents and speaking to loved ones overseas. crazy pace.</p>\n<img src=\"uploads/2025/f2bb4d5b18.jpg\" width=\"600\" height=\"314\" alt=\"\">\n",
+				"content_text": "good morning. got loads of sleep but not quite hitting the restoring sleep that i need. still you gotta work with what you have right, half way through september. the speed of months is mildly terrifying at this rate i'll be wrapping presents and speaking to loved ones overseas. crazy pace.\n\n<img src=\"uploads/2025/f2bb4d5b18.jpg\" width=\"600\" height=\"314\" alt=\"\">\n",
+				"date_published": "2025-09-15T09:27:06-04:00",
+				"url": "https://sett.ee/2025/09/15/good-morning-got-loads-of.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2025/09/13/fixed-the-bug-but-it.html",
+				
+				"content_html": "<p>fixed the bug but it means i can only use .jpg, kinda sucks, i think i just need to make a custom solution that uploads the formats i need and just have a suite of resolution sizing fixes along the way. It&rsquo;s getting closer and it&rsquo;s better.  i&rsquo;m sure i&rsquo;ll keep tinkering at it thou.</p>\n<img src=\"uploads/2025/ed7e15c4cb.jpg\" width=\"600\" height=\"314\" alt=\"\">\n",
+				"content_text": "fixed the bug but it means i can only use .jpg, kinda sucks, i think i just need to make a custom solution that uploads the formats i need and just have a suite of resolution sizing fixes along the way. It's getting closer and it's better.  i'm sure i'll keep tinkering at it thou.\n\n<img src=\"uploads/2025/ed7e15c4cb.jpg\" width=\"600\" height=\"314\" alt=\"\">\n",
+				"date_published": "2025-09-13T14:32:02-04:00",
+				"url": "https://sett.ee/2025/09/13/fixed-the-bug-but-it.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2025/09/13/this-is-the-only-way.html",
+				
+				"content_html": "<p>this is the only way I’m thinking about ai moving forward, custom agents to do specific tasks that I do, using standards that are current and then adding my own perspective on with some ai flavour added to the mix — accountability partner you can keep improving in your own image. mildly terrifying!</p>\n<img src=\"uploads/2025/a2251e37e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "this is the only way I’m thinking about ai moving forward, custom agents to do specific tasks that I do, using standards that are current and then adding my own perspective on with some ai flavour added to the mix — accountability partner you can keep improving in your own image. mildly terrifying!\n\n<img src=\"uploads/2025/a2251e37e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-09-13T11:38:07-04:00",
+				"url": "https://sett.ee/2025/09/13/this-is-the-only-way.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2025/09/13/remembering-the-time-we-had.html",
 				
 				"content_html": "<p>remembering the time we had these great street tacos delivered while coworking and also checking if my code is working for something else, man I’m straight hungry this morning — trying to muster up weekend energy in the middle of all of this, lots of change energy and timeline shifting, loki vibes.</p>\n<img src=\"uploads/2025/97264fee28.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
@@ -33,8 +57,8 @@
 			{
 				"id": "http://humble.micro.blog/2025/09/12/just-a-test-if-i.html",
 				
-				"content_html": "<p>just a test, if i upload from the micro.blog new post does it change my .webp upload into a .jpg and therefore lose the optimized compressed sizing or does it work properly, i feel like it&rsquo;s when i do it from the micro.blog mac desktop app or mobile app however so let&rsquo;s find out #moonlife</p>\n<img src=\"uploads/2025/moon-phil.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "just a test, if i upload from the micro.blog new post does it change my .webp upload into a .jpg and therefore lose the optimized compressed sizing or does it work properly, i feel like it's when i do it from the micro.blog mac desktop app or mobile app however so let's find out #moonlife\n\n<img src=\"uploads/2025/moon-phil.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>just a test, if i upload from the micro.blog new post does it change my .webp upload into a .jpg and therefore lose the optimized compressed sizing or does it work properly, i feel like it&rsquo;s when i do it from the micro.blog mac desktop app or mobile app however so let&rsquo;s find out #moonlife</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2025/moon-phil.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "just a test, if i upload from the micro.blog new post does it change my .webp upload into a .jpg and therefore lose the optimized compressed sizing or does it work properly, i feel like it's when i do it from the micro.blog mac desktop app or mobile app however so let's find out #moonlife\n\n<img src=\"https://eu.uploads.micro.blog/244471/2025/moon-phil.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-12T11:52:14-04:00",
 				"url": "https://sett.ee/2025/09/12/just-a-test-if-i.html"
 			},

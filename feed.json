@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2025/10/13/when-did-good-pizza-get.html",
+				
+				"content_html": "<p>when did good pizza get so expensive? i realise that food in general in america is expensive compared to other places but damn, $20+ for a full pizza is a little wild to just get on a whim, still, it was a damn good grandma pizza. i&rsquo;m still dreaming about it, must have been good.</p>\n<img src=\"uploads/2025/2a88429163.jpg\" width=\"600\" height=\"360\" alt=\"\">\n",
+				"content_text": "when did good pizza get so expensive? i realise that food in general in america is expensive compared to other places but damn, $20+ for a full pizza is a little wild to just get on a whim, still, it was a damn good grandma pizza. i'm still dreaming about it, must have been good.\n\n<img src=\"uploads/2025/2a88429163.jpg\" width=\"600\" height=\"360\" alt=\"\">\n",
+				"date_published": "2025-10-13T11:10:06-04:00",
+				"url": "https://sett.ee/2025/10/13/when-did-good-pizza-get.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2025/10/10/its-a-special-day-today.html",
 				
 				"content_html": "<p>it&rsquo;s a special day today 10/10 and it&rsquo;s been a year, just like that, as fast as that, like we stepped through a time tunnel together, it&rsquo;s been a decade, but we are still here for each other, you gotta find someone like that in life to experience it together, the world is certainly made for two.</p>\n<img src=\"uploads/2025/d503016cd9.jpg\" width=\"600\" height=\"272\" alt=\"\">\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://humble.micro.blog/2025/10/08/my-tech-demands-are-starting.html",
 				
-				"content_html": "<p>my tech demands are starting to get outta sync, i&rsquo;ve been wanting to upgrade the homelab part of the local network for a while now and cracks are starting to show, bottlenecks, local inference needed and drive space for rendering images and video with audio to come soon too. fast net coming soon!</p>\n<img src=\"uploads/2025/3021ac3dc3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "my tech demands are starting to get outta sync, i've been wanting to upgrade the homelab part of the local network for a while now and cracks are starting to show, bottlenecks, local inference needed and drive space for rendering images and video with audio to come soon too. fast net coming soon!\n\n<img src=\"uploads/2025/3021ac3dc3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>my tech demands are starting to get outta sync, i&rsquo;ve been wanting to upgrade the homelab part of the local network for a while now and cracks are starting to show, bottlenecks, local inference needed and drive space for rendering images and video with audio to come soon too. fast net coming soon!</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2025/3021ac3dc3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "my tech demands are starting to get outta sync, i've been wanting to upgrade the homelab part of the local network for a while now and cracks are starting to show, bottlenecks, local inference needed and drive space for rendering images and video with audio to come soon too. fast net coming soon!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2025/3021ac3dc3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-10-08T14:48:35-04:00",
 				"url": "https://sett.ee/2025/10/08/my-tech-demands-are-starting.html"
 			},

@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/01/23/feel-like-i-totally-wasted.html",
+				
+				"content_html": "<p>feel like i totally wasted january, and i keep waking up to notice on fridays, just time blasting past, not handling my time very well at the moment, hard to just do something for 1/2hrs &ndash; literally feel like i got to the computer and it&rsquo;s already lunchtime, storm coming, time to catch up maybe?</p>\n",
+				"content_text": "feel like i totally wasted january, and i keep waking up to notice on fridays, just time blasting past, not handling my time very well at the moment, hard to just do something for 1/2hrs -- literally feel like i got to the computer and it's already lunchtime, storm coming, time to catch up maybe?\n",
+				"date_published": "2026-01-23T11:40:24-05:00",
+				"url": "https://sett.ee/2026/01/23/feel-like-i-totally-wasted.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/01/21/learning-a-lot-about-webhooks.html",
 				
 				"content_html": "<p>learning a lot about webhooks for local automation on local network, also got an ai agent inside of my home assistant which is pretty rad for making dashboards and just general issues i might be having.  you can really make anything these days, pretty wild &ndash; onwards brave warriors! :)</p>\n",
@@ -43,7 +51,7 @@
 				"id": "http://humble.micro.blog/2026/01/16/i-realise-that-star-trek.html",
 				
 				"content_html": "<p>I realise that star trek academy is for a new, maybe new and feckless towards sci fi but for us OG that’s been carrying with us like a space passport I’m in two minds about it, it currently feels like what SEO thinks it should use as an ai script — it was ok only so far, just about still trek.. .</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I realise that star trek academy is for a new, maybe new and feckless towards sci fi but for us OG that’s been carrying with us like a space passport I’m in two minds about it, it currently feels like what SEO thinks it should use as an ai script — it was ok only so far, just about still trek.. .\n\n<img src=\"uploads/2026/52713f1b49.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I realise that star trek academy is for a new, maybe new and feckless towards sci fi but for us OG that’s been carrying with us like a space passport I’m in two minds about it, it currently feels like what SEO thinks it should use as an ai script — it was ok only so far, just about still trek.. .\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/52713f1b49.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-16T07:52:26-05:00",
 				"url": "https://sett.ee/2026/01/16/i-realise-that-star-trek.html"
 			},
@@ -59,7 +67,7 @@
 				"id": "http://humble.micro.blog/2026/01/14/just-a-thought-for-all.html",
 				
 				"content_html": "<p>just a thought for all those effected by the verizon outage today. the first company to offer some kind of load balanced multi-gig multi-honed fibre/satellite backup package is going to win big. why does that not exist, would kinda take the wind out of the sails of ddos script kiddies a little ;)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "just a thought for all those effected by the verizon outage today. the first company to offer some kind of load balanced multi-gig multi-honed fibre/satellite backup package is going to win big. why does that not exist, would kinda take the wind out of the sails of ddos script kiddies a little ;)\n\n<img src=\"uploads/2026/7f5774c3de.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "just a thought for all those effected by the verizon outage today. the first company to offer some kind of load balanced multi-gig multi-honed fibre/satellite backup package is going to win big. why does that not exist, would kinda take the wind out of the sails of ddos script kiddies a little ;)\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/7f5774c3de.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-14T18:23:43-05:00",
 				"url": "https://sett.ee/2026/01/14/just-a-thought-for-all.html"
 			},

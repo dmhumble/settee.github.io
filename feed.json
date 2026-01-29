@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/01/29/computing-is-becoming-a-race.html",
+				
+				"content_html": "<p>computing is becoming a race to the bottom, an expensive thing to interact with, let&rsquo;s just remove the &ldquo;ai&rdquo; part of running a local inference homelab and consider tech as it comes, even the price of a raspberry pi5 (and new 6) is not accessible like used to be &gt; cost of ram etc.  get silicon soon!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "computing is becoming a race to the bottom, an expensive thing to interact with, let's just remove the \"ai\" part of running a local inference homelab and consider tech as it comes, even the price of a raspberry pi5 (and new 6) is not accessible like used to be > cost of ram etc.  get silicon soon!\n\n<img src=\"uploads/2026/7a8d7ef959.jpg\" width=\"600\" height=\"313\" alt=\"\">\n",
+				"date_published": "2026-01-29T12:41:27-05:00",
+				"url": "https://sett.ee/2026/01/29/computing-is-becoming-a-race.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/01/28/best-thing-a-about-ai.html",
 				
 				"content_html": "<p>best thing a about ai tools for over 50+ ugc people like me is that you don&rsquo;t have to deal with rude customers, the world is out there and it&rsquo;s on demand and the people who build systems to be proactive about that and understand how to balance tokens/cost and output times are gonna win!</p>\n<!-- raw HTML omitted -->\n",

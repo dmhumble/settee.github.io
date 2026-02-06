@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/02/06/with-opus-out-and-if.html",
+				
+				"content_html": "<p>with opus 4.6 out and if you go to <a href=\"https://claude.ai/settings/usage\">claude.ai/settings/&hellip;</a> you&rsquo;ll noticed that they are offering a &ldquo;free&rdquo; $50 of credits, just make sure you set the monthly spending limit to $1 for now until you see how fast it burns through tokens, it&rsquo;s a little sneaky to turn on extra usage once hooked!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "with opus 4.6 out and if you go to [claude.ai/settings/...](https://claude.ai/settings/usage) you'll noticed that they are offering a \"free\" $50 of credits, just make sure you set the monthly spending limit to $1 for now until you see how fast it burns through tokens, it's a little sneaky to turn on extra usage once hooked!\n\n<img src=\"uploads/2026/c3df5b2cae.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-06T09:13:35-05:00",
+				"url": "https://sett.ee/2026/02/06/with-opus-out-and-if.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/02/03/my-little-vibe-coded-watcher.html",
+				
+				"content_html": "<p>my little vibe coded &ldquo;watcher&rdquo; app for my tiny homelab raspberry pi 400 (listen, use what you have) is going great, i&rsquo;m adding new features all the time of stuff that i cannot be bothered to go check and rather have pushed to me as a warning/reminder.  man, vibe coding tools is so rad.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "my little vibe coded \"watcher\" app for my tiny homelab raspberry pi 400 (listen, use what you have) is going great, i'm adding new features all the time of stuff that i cannot be bothered to go check and rather have pushed to me as a warning/reminder.  man, vibe coding tools is so rad.\n\n<img src=\"uploads/2026/paste-3dfeabd5.png\" width=\"600\" height=\"421\" alt=\"\">\n",
+				"date_published": "2026-02-03T14:58:48-05:00",
+				"url": "https://sett.ee/2026/02/03/my-little-vibe-coded-watcher.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/02/03/i-just-used-ai-to.html",
+				
+				"content_html": "<p>i just used ai to order me some tacos for lunch/later on today, i literally described it to an ai what i wanted, how i wanted it, where the problems might be, it asked me if it wanted to confirm that they did that, i already know they do it so did not do that, i want to see end to end if it works!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "i just used ai to order me some tacos for lunch/later on today, i literally described it to an ai what i wanted, how i wanted it, where the problems might be, it asked me if it wanted to confirm that they did that, i already know they do it so did not do that, i want to see end to end if it works!\n\n<img src=\"uploads/2026/4584096174.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-03T12:35:25-05:00",
+				"url": "https://sett.ee/2026/02/03/i-just-used-ai-to.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/02/03/i-love-this-so-much.html",
 				
 				"content_html": "<p>i love this so much, <a href=\"https://safe-now.live\">safe-now.live</a>, simple, effective, fast loading, valuable information for on the go on mobile/tablet (as long as you have power) just a really smart, simple, effective and useful idea &ndash; think i need to start thinking more simple, goes a long way in emergency!</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +58,7 @@
 				"id": "http://humble.micro.blog/2026/01/30/its-good-to-see-we.html",
 				
 				"content_html": "<p>it&rsquo;s good to see we are moving to a more open/local/homelab frontier, i believe people are burnt out on the ever escalating cost of subscriptions and those things are the first things to fall, people are doing it for themselves at home, i expect ISP will start to put data rates back in at some point</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "it's good to see we are moving to a more open/local/homelab frontier, i believe people are burnt out on the ever escalating cost of subscriptions and those things are the first things to fall, people are doing it for themselves at home, i expect ISP will start to put data rates back in at some point\n\n<img src=\"uploads/2026/85fbf26efd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "it's good to see we are moving to a more open/local/homelab frontier, i believe people are burnt out on the ever escalating cost of subscriptions and those things are the first things to fall, people are doing it for themselves at home, i expect ISP will start to put data rates back in at some point\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/85fbf26efd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-30T09:20:15-05:00",
 				"url": "https://sett.ee/2026/01/30/its-good-to-see-we.html"
 			},
@@ -42,7 +66,7 @@
 				"id": "http://humble.micro.blog/2026/01/29/computing-is-becoming-a-race.html",
 				
 				"content_html": "<p>computing is becoming a race to the bottom, an expensive thing to interact with, let&rsquo;s just remove the &ldquo;ai&rdquo; part of running a local inference homelab and consider tech as it comes, even the price of a raspberry pi5 (and new 6) is not accessible like used to be &gt; cost of ram etc.  get silicon soon!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "computing is becoming a race to the bottom, an expensive thing to interact with, let's just remove the \"ai\" part of running a local inference homelab and consider tech as it comes, even the price of a raspberry pi5 (and new 6) is not accessible like used to be > cost of ram etc.  get silicon soon!\n\n<img src=\"uploads/2026/7a8d7ef959.jpg\" width=\"600\" height=\"313\" alt=\"\">\n",
+				"content_text": "computing is becoming a race to the bottom, an expensive thing to interact with, let's just remove the \"ai\" part of running a local inference homelab and consider tech as it comes, even the price of a raspberry pi5 (and new 6) is not accessible like used to be > cost of ram etc.  get silicon soon!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/7a8d7ef959.jpg\" width=\"600\" height=\"313\" alt=\"\">\n",
 				"date_published": "2026-01-29T12:41:27-05:00",
 				"url": "https://sett.ee/2026/01/29/computing-is-becoming-a-race.html"
 			},
@@ -58,7 +82,7 @@
 				"id": "http://humble.micro.blog/2026/01/27/run-moltbot-clawdbot-on-racknerd.html",
 				"title": "run molt.bot (clawdbot) on racknerd for $35 a year!",
 				"content_html": "<p>it’s all the rage, the new shiny shiny.</p>\n<p>for use that have not bought a dedicated mac mini (lol) for this new and trendy ai thing you can go about it another way and do some low key experimentation with an online vps.</p>\n<p>remember to secure that puppy down, there are lot of already incredible tutorials about that and i think you could be probably up and running in less than an hour, heck use ai tools to build you the script to map out the process so you can build and nuke them quickly.</p>\n<p>i’ve been using <a href=\"http://noncur.rent/racknerd\">racknerd</a> (affiliate link) for a few years now and i’ve got to say their yearly <a href=\"https://www.racknerd.com/NewYear/\">NEWYEAR</a> deals are totally worth it for experiments like this.</p>\n<p>they have a KVM VPS for $32.49 (let’s just call it $35 eh) that would be more than powerful enough for what you need.</p>\n<ul>\n<li>2 vCPU Cores</li>\n<li>65 GB Pure SSD Storage</li>\n<li>3.5 GB RAM</li>\n<li>7000 GB Monthly Transfer</li>\n<li>1 Gbps Network Port</li>\n<li>Full Root Admin Access</li>\n<li>1 Dedicated IPv4 Address</li>\n<li>KVM / SolusVM Control Panel</li>\n<li>FREE Clientexec License</li>\n<li>Available in: Multiple Locations</li>\n</ul>\n<p>bonus!\n<a href=\"https://x.com/BitsagaRob/status/2015757134760202469\">x.com/BitsagaRo&hellip;</a>\n(this guy gives you the roadmap for your builder script if ya wanna do that!)</p>\n<p>peace and love,\nautomate and live your life!\nhumble xxx\n2k26 (the year of systems!)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "it’s all the rage, the new shiny shiny.\n\nfor use that have not bought a dedicated mac mini (lol) for this new and trendy ai thing you can go about it another way and do some low key experimentation with an online vps.\n\nremember to secure that puppy down, there are lot of already incredible tutorials about that and i think you could be probably up and running in less than an hour, heck use ai tools to build you the script to map out the process so you can build and nuke them quickly.\n\ni’ve been using [racknerd](http://noncur.rent/racknerd) (affiliate link) for a few years now and i’ve got to say their yearly [NEWYEAR](https://www.racknerd.com/NewYear/) deals are totally worth it for experiments like this.\n\nthey have a KVM VPS for $32.49 (let’s just call it $35 eh) that would be more than powerful enough for what you need.\n\n* 2 vCPU Cores\n* 65 GB Pure SSD Storage\n* 3.5 GB RAM\n* 7000 GB Monthly Transfer\n* 1 Gbps Network Port\n* Full Root Admin Access\n* 1 Dedicated IPv4 Address\n* KVM / SolusVM Control Panel\n* FREE Clientexec License\n* Available in: Multiple Locations\n\nbonus!\n[x.com/BitsagaRo...](https://x.com/BitsagaRob/status/2015757134760202469)\n(this guy gives you the roadmap for your builder script if ya wanna do that!)\n\npeace and love,\nautomate and live your life!\nhumble xxx\n2k26 (the year of systems!)\n\n<img src=\"uploads/2026/3176c7fea4.jpg\" width=\"600\" height=\"327\" alt=\"\">\n",
+				"content_text": "it’s all the rage, the new shiny shiny.\n\nfor use that have not bought a dedicated mac mini (lol) for this new and trendy ai thing you can go about it another way and do some low key experimentation with an online vps.\n\nremember to secure that puppy down, there are lot of already incredible tutorials about that and i think you could be probably up and running in less than an hour, heck use ai tools to build you the script to map out the process so you can build and nuke them quickly.\n\ni’ve been using [racknerd](http://noncur.rent/racknerd) (affiliate link) for a few years now and i’ve got to say their yearly [NEWYEAR](https://www.racknerd.com/NewYear/) deals are totally worth it for experiments like this.\n\nthey have a KVM VPS for $32.49 (let’s just call it $35 eh) that would be more than powerful enough for what you need.\n\n* 2 vCPU Cores\n* 65 GB Pure SSD Storage\n* 3.5 GB RAM\n* 7000 GB Monthly Transfer\n* 1 Gbps Network Port\n* Full Root Admin Access\n* 1 Dedicated IPv4 Address\n* KVM / SolusVM Control Panel\n* FREE Clientexec License\n* Available in: Multiple Locations\n\nbonus!\n[x.com/BitsagaRo...](https://x.com/BitsagaRob/status/2015757134760202469)\n(this guy gives you the roadmap for your builder script if ya wanna do that!)\n\npeace and love,\nautomate and live your life!\nhumble xxx\n2k26 (the year of systems!)\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/3176c7fea4.jpg\" width=\"600\" height=\"327\" alt=\"\">\n",
 				"date_published": "2026-01-27T10:13:56-05:00",
 				"url": "https://sett.ee/2026/01/27/run-moltbot-clawdbot-on-racknerd.html",
 				"tags": ["observations"]
@@ -84,7 +108,7 @@
 				"id": "http://humble.micro.blog/2026/01/27/it-sucks-know-im-the.html",
 				
 				"content_html": "<p>it sucks know i&rsquo;m the bottleneck now from keyboard/mouse &ndash; i&rsquo;m gonna cheer myself up by secure/hardening a clawdbot on a vps and have a tinker with that as well as everything else the day might bring, it&rsquo;s taco tuesday baby. firing up all the engines, espresso shortly, got good sleeps. make it so!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "it sucks know i'm the bottleneck now from keyboard/mouse -- i'm gonna cheer myself up by secure/hardening a clawdbot on a vps and have a tinker with that as well as everything else the day might bring, it's taco tuesday baby. firing up all the engines, espresso shortly, got good sleeps. make it so!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/a2392ca147.jpg\" width=\"600\" height=\"448\" alt=\"\">\n",
+				"content_text": "it sucks know i'm the bottleneck now from keyboard/mouse -- i'm gonna cheer myself up by secure/hardening a clawdbot on a vps and have a tinker with that as well as everything else the day might bring, it's taco tuesday baby. firing up all the engines, espresso shortly, got good sleeps. make it so!\n\n<img src=\"uploads/2026/a2392ca147.jpg\" width=\"600\" height=\"448\" alt=\"\">\n",
 				"date_published": "2026-01-27T09:21:31-05:00",
 				"url": "https://sett.ee/2026/01/27/it-sucks-know-im-the.html"
 			},

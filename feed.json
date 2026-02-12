@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/02/12/good-morning-gentlemen-start-your.html",
+				
+				"content_html": "<p>good morning gentlemen, start your engines! asked the ai for five things for me to work on today, wants me to install a bunch of things so it can help me be productive, i&rsquo;m also going to potentially get it to sort a bunch of video files today, not sure how it&rsquo;s gonna do with that! brave warriors!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "good morning gentlemen, start your engines! asked the ai for five things for me to work on today, wants me to install a bunch of things so it can help me be productive, i'm also going to potentially get it to sort a bunch of video files today, not sure how it's gonna do with that! brave warriors!\n\n<img src=\"uploads/2026/the-highway-of-constant-transition.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-12T10:38:46-05:00",
+				"url": "https://sett.ee/2026/02/12/good-morning-gentlemen-start-your.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/02/11/so-we-are-kinda-making.html",
 				
 				"content_html": "<p>so we are kinda making software in our own image in the way that each of us who can type can ask a question and build ill formed things, that does&rsquo;nt sounds like it ends well, it&rsquo;s kinda a road to the bottom if we are all doing it, after the automation, we gotta think much bigger.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://humble.micro.blog/2026/02/07/sunday-is-my-favorite-computer.html",
 				
 				"content_html": "<p>sunday is my favorite computer time day because it’s perfect for taking to plan out what you are going to focus your time on. at the moment we are trying to deploy our every day systems because the weather has made that a littler miserable. we are working on it though, lots to do.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "sunday is my favorite computer time day because it’s perfect for taking to plan out what you are going to focus your time on. at the moment we are trying to deploy our every day systems because the weather has made that a littler miserable. we are working on it though, lots to do.\n\n<img src=\"uploads/2026/9fef8a05e9.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "sunday is my favorite computer time day because it’s perfect for taking to plan out what you are going to focus your time on. at the moment we are trying to deploy our every day systems because the weather has made that a littler miserable. we are working on it though, lots to do.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/9fef8a05e9.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-07T18:11:05-05:00",
 				"url": "https://sett.ee/2026/02/07/sunday-is-my-favorite-computer.html"
 			},

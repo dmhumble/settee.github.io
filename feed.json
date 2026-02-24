@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/02/24/my-new-rule-of-thumb.html",
+				
+				"content_html": "<p>my new rule of thumb with github repos is wait for more releases to come out and a good group of people actively adding to the project. it&rsquo;s a brand new attack surface/vector for people to vibe code and spin up bs packages and put them on github. be smart, double check and check again, also scan!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "my new rule of thumb with github repos is wait for more releases to come out and a good group of people actively adding to the project. it's a brand new attack surface/vector for people to vibe code and spin up bs packages and put them on github. be smart, double check and check again, also scan!\n\n<img src=\"uploads/2026/9a137cf7cc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-24T11:05:50-05:00",
+				"url": "https://sett.ee/2026/02/24/my-new-rule-of-thumb.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/02/20/we-have-all-these-freaking.html",
 				
 				"content_html": "<p>we have all these freaking ai wrappers and i&rsquo;m sick of seeing payment crap like this, are we not further along in 2026, like, it would be so relatively easy to spin something up, wholesale buy credits and sell you them for a little bit more, but are we not over web3 snake oil behavior yet?</p>\n<!-- raw HTML omitted -->\n",

@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/03/02/trying-to-find-a-good.html",
+				
+				"content_html": "<p>trying to find a good balance recently, changing some routines, installing new ones. steps and oxygen big ones, my hrv has been bouncing around a lot and i&rsquo;d like to get that to a steady place, need a faster way to post wins.  refactoring going well however!</p>\n",
+				"content_text": "trying to find a good balance recently, changing some routines, installing new ones. steps and oxygen big ones, my hrv has been bouncing around a lot and i'd like to get that to a steady place, need a faster way to post wins.  refactoring going well however!\n",
+				"date_published": "2026-03-02T15:58:16-05:00",
+				"url": "https://sett.ee/2026/03/02/trying-to-find-a-good.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/02/24/my-new-rule-of-thumb.html",
 				
 				"content_html": "<p>my new rule of thumb with github repos is wait for more releases to come out and a good group of people actively adding to the project. it&rsquo;s a brand new attack surface/vector for people to vibe code and spin up bs packages and put them on github. be smart, double check and check again, also scan!</p>\n<!-- raw HTML omitted -->\n",
@@ -50,7 +58,7 @@
 				"id": "http://humble.micro.blog/2026/02/12/its-coming-to-something-when.html",
 				
 				"content_html": "<p>it&rsquo;s coming to something when you have to re-order your day around when your llm is going to have it&rsquo;s &ldquo;reset&rdquo; on your plan but hey, that&rsquo;s where we are and we ramp up as we can afford, bit like life really, you do what you can with what you have.  time for tiktok time and a bit of a tidy up! :)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "it's coming to something when you have to re-order your day around when your llm is going to have it's \"reset\" on your plan but hey, that's where we are and we ramp up as we can afford, bit like life really, you do what you can with what you have.  time for tiktok time and a bit of a tidy up! :)\n\n<img src=\"uploads/2026/d64d80dbde.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "it's coming to something when you have to re-order your day around when your llm is going to have it's \"reset\" on your plan but hey, that's where we are and we ramp up as we can afford, bit like life really, you do what you can with what you have.  time for tiktok time and a bit of a tidy up! :)\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/d64d80dbde.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-12T16:12:59-05:00",
 				"url": "https://sett.ee/2026/02/12/its-coming-to-something-when.html"
 			},
@@ -58,7 +66,7 @@
 				"id": "http://humble.micro.blog/2026/02/12/good-morning-gentlemen-start-your.html",
 				
 				"content_html": "<p>good morning gentlemen, start your engines! asked the ai for five things for me to work on today, wants me to install a bunch of things so it can help me be productive, i&rsquo;m also going to potentially get it to sort a bunch of video files today, not sure how it&rsquo;s gonna do with that! brave warriors!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "good morning gentlemen, start your engines! asked the ai for five things for me to work on today, wants me to install a bunch of things so it can help me be productive, i'm also going to potentially get it to sort a bunch of video files today, not sure how it's gonna do with that! brave warriors!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/the-highway-of-constant-transition.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "good morning gentlemen, start your engines! asked the ai for five things for me to work on today, wants me to install a bunch of things so it can help me be productive, i'm also going to potentially get it to sort a bunch of video files today, not sure how it's gonna do with that! brave warriors!\n\n<img src=\"uploads/2026/the-highway-of-constant-transition.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-12T10:38:46-05:00",
 				"url": "https://sett.ee/2026/02/12/good-morning-gentlemen-start-your.html"
 			},
@@ -82,7 +90,7 @@
 				"id": "http://humble.micro.blog/2026/02/09/its-very-tundra-like-still.html",
 				
 				"content_html": "<p>it&rsquo;s very tundra like still out there in new hoth but the sunshine and the heat is starting to break through again, soon it will be fun times in malls, pizza, bagels and martial arts all over again. feel like the brain is defrosting over here as well, forward motion, impulse power, all engines!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "it's very tundra like still out there in new hoth but the sunshine and the heat is starting to break through again, soon it will be fun times in malls, pizza, bagels and martial arts all over again. feel like the brain is defrosting over here as well, forward motion, impulse power, all engines!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/962e137193.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "it's very tundra like still out there in new hoth but the sunshine and the heat is starting to break through again, soon it will be fun times in malls, pizza, bagels and martial arts all over again. feel like the brain is defrosting over here as well, forward motion, impulse power, all engines!\n\n<img src=\"uploads/2026/962e137193.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-09T08:45:02-05:00",
 				"url": "https://sett.ee/2026/02/09/its-very-tundra-like-still.html"
 			},
@@ -194,7 +202,7 @@
 				"id": "http://humble.micro.blog/2026/01/30/wow-i-cant-believe-sndk.html",
 				
 				"content_html": "<p>wow! i can&rsquo;t believe SNDK hitting $640 today, that&rsquo;s insane, sandisk doing nvidia style moves.  i wish in my early teens/twenties i knew about stocks and can only wish we had the tools back then to easily set that up from my mobile phone.  ebb and flow with the tide my friends. crazy.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "wow! i can't believe SNDK hitting $640 today, that's insane, sandisk doing nvidia style moves.  i wish in my early teens/twenties i knew about stocks and can only wish we had the tools back then to easily set that up from my mobile phone.  ebb and flow with the tide my friends. crazy.\n\n<img src=\"uploads/2026/e22f56df8b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "wow! i can't believe SNDK hitting $640 today, that's insane, sandisk doing nvidia style moves.  i wish in my early teens/twenties i knew about stocks and can only wish we had the tools back then to easily set that up from my mobile phone.  ebb and flow with the tide my friends. crazy.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/e22f56df8b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-30T09:48:48-05:00",
 				"url": "https://sett.ee/2026/01/30/wow-i-cant-believe-sndk.html"
 			},
@@ -226,7 +234,7 @@
 				"id": "http://humble.micro.blog/2026/01/27/run-moltbot-clawdbot-on-racknerd.html",
 				"title": "run molt.bot (clawdbot) on racknerd for $35 a year!",
 				"content_html": "<p>it’s all the rage, the new shiny shiny.</p>\n<p>for use that have not bought a dedicated mac mini (lol) for this new and trendy ai thing you can go about it another way and do some low key experimentation with an online vps.</p>\n<p>remember to secure that puppy down, there are lot of already incredible tutorials about that and i think you could be probably up and running in less than an hour, heck use ai tools to build you the script to map out the process so you can build and nuke them quickly.</p>\n<p>i’ve been using <a href=\"http://noncur.rent/racknerd\">racknerd</a> (affiliate link) for a few years now and i’ve got to say their yearly <a href=\"https://www.racknerd.com/NewYear/\">NEWYEAR</a> deals are totally worth it for experiments like this.</p>\n<p>they have a KVM VPS for $32.49 (let’s just call it $35 eh) that would be more than powerful enough for what you need.</p>\n<ul>\n<li>2 vCPU Cores</li>\n<li>65 GB Pure SSD Storage</li>\n<li>3.5 GB RAM</li>\n<li>7000 GB Monthly Transfer</li>\n<li>1 Gbps Network Port</li>\n<li>Full Root Admin Access</li>\n<li>1 Dedicated IPv4 Address</li>\n<li>KVM / SolusVM Control Panel</li>\n<li>FREE Clientexec License</li>\n<li>Available in: Multiple Locations</li>\n</ul>\n<p>bonus!\n<a href=\"https://x.com/BitsagaRob/status/2015757134760202469\">x.com/BitsagaRo&hellip;</a>\n(this guy gives you the roadmap for your builder script if ya wanna do that!)</p>\n<p>peace and love,\nautomate and live your life!\nhumble xxx\n2k26 (the year of systems!)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "it’s all the rage, the new shiny shiny.\n\nfor use that have not bought a dedicated mac mini (lol) for this new and trendy ai thing you can go about it another way and do some low key experimentation with an online vps.\n\nremember to secure that puppy down, there are lot of already incredible tutorials about that and i think you could be probably up and running in less than an hour, heck use ai tools to build you the script to map out the process so you can build and nuke them quickly.\n\ni’ve been using [racknerd](http://noncur.rent/racknerd) (affiliate link) for a few years now and i’ve got to say their yearly [NEWYEAR](https://www.racknerd.com/NewYear/) deals are totally worth it for experiments like this.\n\nthey have a KVM VPS for $32.49 (let’s just call it $35 eh) that would be more than powerful enough for what you need.\n\n* 2 vCPU Cores\n* 65 GB Pure SSD Storage\n* 3.5 GB RAM\n* 7000 GB Monthly Transfer\n* 1 Gbps Network Port\n* Full Root Admin Access\n* 1 Dedicated IPv4 Address\n* KVM / SolusVM Control Panel\n* FREE Clientexec License\n* Available in: Multiple Locations\n\nbonus!\n[x.com/BitsagaRo...](https://x.com/BitsagaRob/status/2015757134760202469)\n(this guy gives you the roadmap for your builder script if ya wanna do that!)\n\npeace and love,\nautomate and live your life!\nhumble xxx\n2k26 (the year of systems!)\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/3176c7fea4.jpg\" width=\"600\" height=\"327\" alt=\"\">\n",
+				"content_text": "it’s all the rage, the new shiny shiny.\n\nfor use that have not bought a dedicated mac mini (lol) for this new and trendy ai thing you can go about it another way and do some low key experimentation with an online vps.\n\nremember to secure that puppy down, there are lot of already incredible tutorials about that and i think you could be probably up and running in less than an hour, heck use ai tools to build you the script to map out the process so you can build and nuke them quickly.\n\ni’ve been using [racknerd](http://noncur.rent/racknerd) (affiliate link) for a few years now and i’ve got to say their yearly [NEWYEAR](https://www.racknerd.com/NewYear/) deals are totally worth it for experiments like this.\n\nthey have a KVM VPS for $32.49 (let’s just call it $35 eh) that would be more than powerful enough for what you need.\n\n* 2 vCPU Cores\n* 65 GB Pure SSD Storage\n* 3.5 GB RAM\n* 7000 GB Monthly Transfer\n* 1 Gbps Network Port\n* Full Root Admin Access\n* 1 Dedicated IPv4 Address\n* KVM / SolusVM Control Panel\n* FREE Clientexec License\n* Available in: Multiple Locations\n\nbonus!\n[x.com/BitsagaRo...](https://x.com/BitsagaRob/status/2015757134760202469)\n(this guy gives you the roadmap for your builder script if ya wanna do that!)\n\npeace and love,\nautomate and live your life!\nhumble xxx\n2k26 (the year of systems!)\n\n<img src=\"uploads/2026/3176c7fea4.jpg\" width=\"600\" height=\"327\" alt=\"\">\n",
 				"date_published": "2026-01-27T10:13:56-05:00",
 				"url": "https://sett.ee/2026/01/27/run-moltbot-clawdbot-on-racknerd.html",
 				"tags": ["observations"]
@@ -252,7 +260,7 @@
 				"id": "http://humble.micro.blog/2026/01/27/it-sucks-know-im-the.html",
 				
 				"content_html": "<p>it sucks know i&rsquo;m the bottleneck now from keyboard/mouse &ndash; i&rsquo;m gonna cheer myself up by secure/hardening a clawdbot on a vps and have a tinker with that as well as everything else the day might bring, it&rsquo;s taco tuesday baby. firing up all the engines, espresso shortly, got good sleeps. make it so!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "it sucks know i'm the bottleneck now from keyboard/mouse -- i'm gonna cheer myself up by secure/hardening a clawdbot on a vps and have a tinker with that as well as everything else the day might bring, it's taco tuesday baby. firing up all the engines, espresso shortly, got good sleeps. make it so!\n\n<img src=\"uploads/2026/a2392ca147.jpg\" width=\"600\" height=\"448\" alt=\"\">\n",
+				"content_text": "it sucks know i'm the bottleneck now from keyboard/mouse -- i'm gonna cheer myself up by secure/hardening a clawdbot on a vps and have a tinker with that as well as everything else the day might bring, it's taco tuesday baby. firing up all the engines, espresso shortly, got good sleeps. make it so!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/a2392ca147.jpg\" width=\"600\" height=\"448\" alt=\"\">\n",
 				"date_published": "2026-01-27T09:21:31-05:00",
 				"url": "https://sett.ee/2026/01/27/it-sucks-know-im-the.html"
 			},

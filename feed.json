@@ -7,10 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/03/05/reminder-that-i-dislike-any.html",
+				
+				"content_html": "<p>reminder that i dislike any kind of test, i just got 68% out of a needed 80% i&rsquo;ve got a couple more attempts but frustrating, at least i hope it will bed in this time, i guess i did ok on a first run, just gotta focus up! also got claude code busy re-factoring another project!</p>\n",
+				"content_text": "reminder that i dislike any kind of test, i just got 68% out of a needed 80% i've got a couple more attempts but frustrating, at least i hope it will bed in this time, i guess i did ok on a first run, just gotta focus up! also got claude code busy re-factoring another project!\n",
+				"date_published": "2026-03-05T17:27:03-05:00",
+				"url": "https://sett.ee/2026/03/05/reminder-that-i-dislike-any.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/03/04/might-be-able-to-automate.html",
+				
+				"content_html": "<p>might be able to automate this a lot easier now from the links that i collect each day because i&rsquo;ve finally hooked up bear app to a claude project, i just made a section for the links and i&rsquo;ll be finding a way to run this each day depending on what i find, it&rsquo;s a straight forward process now. sweet.</p>\n",
+				"content_text": "might be able to automate this a lot easier now from the links that i collect each day because i've finally hooked up bear app to a claude project, i just made a section for the links and i'll be finding a way to run this each day depending on what i find, it's a straight forward process now. sweet.\n",
+				"date_published": "2026-03-04T16:04:04-05:00",
+				"url": "https://sett.ee/2026/03/04/might-be-able-to-automate.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/03/04/redact-your-digital-past-track.html",
+				
+				"content_html": "<p><strong><a href=\"https://redact.dev\">Redact</a></strong> your digital past, track <strong><a href=\"https://github.com/dietrichmax/colota\">GPS routes</a></strong>, paint with <strong><a href=\"https://www.moss.town\">MOSS</a></strong>, browse <strong><a href=\"https://deflock.org\">Flock cams</a></strong>, find stories in <strong><a href=\"https://datasette.io\">Datasette</a></strong> and explore <strong><a href=\"https://claw-x.com/\">ClawX</a></strong> for AI-powered configs.</p>\n",
+				"content_text": "**[Redact](https://redact.dev)** your digital past, track **[GPS routes](https://github.com/dietrichmax/colota)**, paint with **[MOSS](https://www.moss.town)**, browse **[Flock cams](https://deflock.org)**, find stories in **[Datasette](https://datasette.io)** and explore **[ClawX](https://claw-x.com/)** for AI-powered configs.\n",
+				"date_published": "2026-03-04T16:02:22-05:00",
+				"url": "https://sett.ee/2026/03/04/redact-your-digital-past-track.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/03/04/113127.html",
+				
+				"content_html": "<p><iframe style=\"border-radius:12px; margin-top: 0rem; margin-bottom: 1rem;\" src=\"https://open.spotify.com/embed/track/6xEE80nW1NgNC2p04n4in5\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe> is a track from a game that i&rsquo;ve been watching my wife play called dave the diver, it&rsquo;s fantastic.  i love the cross over of musicians and gaming like that, it&rsquo;s a great crossover and promotion method.  i would never have been exposed to mxmtoon and she&rsquo;s great.</p>\n",
+				"content_text": "{{< spotify url=\"https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5?si=0a5f5f10c8114163\" >}} is a track from a game that i've been watching my wife play called dave the diver, it's fantastic.  i love the cross over of musicians and gaming like that, it's a great crossover and promotion method.  i would never have been exposed to mxmtoon and she's great.\n",
+				"date_published": "2026-03-04T11:31:27-05:00",
+				"url": "https://sett.ee/2026/03/04/113127.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/03/04/and-there-is-me-talking.html",
+				
+				"content_html": "<p>and there is me talking about the cost of tech and apple drop the macbook neo for like $600 and while it&rsquo;s not got much of a spec or memory, this for the sofa times talking to my ai over the local network is a good upgrade for me in the short term without being concerned about a new laptop. yes!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "and there is me talking about the cost of tech and apple drop the macbook neo for like $600 and while it's not got much of a spec or memory, this for the sofa times talking to my ai over the local network is a good upgrade for me in the short term without being concerned about a new laptop. yes!\n\n<img src=\"uploads/2026/4e2deb321a.jpg\" width=\"478\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-04T09:53:49-05:00",
+				"url": "https://sett.ee/2026/03/04/and-there-is-me-talking.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/03/04/i-feel-like-that-bear.html",
+				
+				"content_html": "<p>i feel like that bear meme you see with it coming out of it&rsquo;s shelter for the first time this year and it&rsquo;s fucking march bro already, quarter just blasted past because of weather, it&rsquo;s true what they say, life flys past when you get older, you gotta grab on and hang on for all that is worthy.</p>\n",
+				"content_text": "i feel like that bear meme you see with it coming out of it's shelter for the first time this year and it's fucking march bro already, quarter just blasted past because of weather, it's true what they say, life flys past when you get older, you gotta grab on and hang on for all that is worthy.\n",
+				"date_published": "2026-03-04T09:37:31-05:00",
+				"url": "https://sett.ee/2026/03/04/i-feel-like-that-bear.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/03/04/being-in-technology-these-days.html",
 				
 				"content_html": "<p>being in &ldquo;technology&rdquo; these days is expensive. feels like a race to the bottom, even a raspberry pi once was cheap and now if you want a rpi5 or a cm5 they are over $100 &ndash; access to silicon/chips is getting all too arc raiders real life, unless more players enter the mix, everything is subscription</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "being in \"technology\" these days is expensive. feels like a race to the bottom, even a raspberry pi once was cheap and now if you want a rpi5 or a cm5 they are over $100 -- access to silicon/chips is getting all too arc raiders real life, unless more players enter the mix, everything is subscription\n\n<img src=\"uploads/2026/fdca42209b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "being in \"technology\" these days is expensive. feels like a race to the bottom, even a raspberry pi once was cheap and now if you want a rpi5 or a cm5 they are over $100 -- access to silicon/chips is getting all too arc raiders real life, unless more players enter the mix, everything is subscription\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/fdca42209b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-04T09:30:33-05:00",
 				"url": "https://sett.ee/2026/03/04/being-in-technology-these-days.html"
 			},
@@ -18,7 +66,7 @@
 				"id": "http://humble.micro.blog/2026/03/03/my-m-macbook-air-has.html",
 				
 				"content_html": "<p>my m1 macbook air has served me very well, a solid device, six years and still going, very impressed with the &ldquo;m&rdquo; series kit from apple, they really got that shit right.  it&rsquo;s going to be a massive upgrade, target for this year updated, it would be like a super portable homelab in a box in many ways</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "my m1 macbook air has served me very well, a solid device, six years and still going, very impressed with the \"m\" series kit from apple, they really got that shit right.  it's going to be a massive upgrade, target for this year updated, it would be like a super portable homelab in a box in many ways\n\n<img src=\"uploads/2026/paste-f5374623.png\" width=\"600\" height=\"335\" alt=\"\">\n",
+				"content_text": "my m1 macbook air has served me very well, a solid device, six years and still going, very impressed with the \"m\" series kit from apple, they really got that shit right.  it's going to be a massive upgrade, target for this year updated, it would be like a super portable homelab in a box in many ways\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/paste-f5374623.png\" width=\"600\" height=\"335\" alt=\"\">\n",
 				"date_published": "2026-03-03T13:58:37-05:00",
 				"url": "https://sett.ee/2026/03/03/my-m-macbook-air-has.html"
 			},
@@ -34,7 +82,7 @@
 				"id": "http://humble.micro.blog/2026/03/03/my-body-is-expecting-this.html",
 				
 				"content_html": "<p>my body is expecting this setup to be there everyday and my mind is questioning why we don&rsquo;t have it yet, things take time sure but now we have tools that make time go faster, everytime i line something up, i have an update/paywall or some other hoop to jump through. onwards and upwards!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "my body is expecting this setup to be there everyday and my mind is questioning why we don't have it yet, things take time sure but now we have tools that make time go faster, everytime i line something up, i have an update/paywall or some other hoop to jump through. onwards and upwards!\n\n<img src=\"uploads/2026/4dbe6ecf32.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "my body is expecting this setup to be there everyday and my mind is questioning why we don't have it yet, things take time sure but now we have tools that make time go faster, everytime i line something up, i have an update/paywall or some other hoop to jump through. onwards and upwards!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/4dbe6ecf32.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-03T13:22:48-05:00",
 				"url": "https://sett.ee/2026/03/03/my-body-is-expecting-this.html"
 			},
@@ -42,7 +90,7 @@
 				"id": "http://humble.micro.blog/2026/03/03/i-wonder-how-much-the.html",
 				
 				"content_html": "<p>i wonder how much the slate is gonna end up costing, they say around $25k but i just don&rsquo;t see it, maybe it&rsquo;s best   to just pick up the BLANK_slate and take it from there, it would certainly be a useful run around local kinda truck and be handle for bulk runs right?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "i wonder how much the slate is gonna end up costing, they say around $25k but i just don't see it, maybe it's best   to just pick up the BLANK_slate and take it from there, it would certainly be a useful run around local kinda truck and be handle for bulk runs right?\n\n<img src=\"uploads/2026/2ab9010d0e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "i wonder how much the slate is gonna end up costing, they say around $25k but i just don't see it, maybe it's best   to just pick up the BLANK_slate and take it from there, it would certainly be a useful run around local kinda truck and be handle for bulk runs right?\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/2ab9010d0e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-03T10:33:34-05:00",
 				"url": "https://sett.ee/2026/03/03/i-wonder-how-much-the.html"
 			},

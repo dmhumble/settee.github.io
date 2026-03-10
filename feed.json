@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/03/10/having-to-reformat-a-ugc.html",
+				
+				"content_html": "<p>having to re-format a ugc script so that i both understand it and it makes sense on location so time is not wasted and i can rapidly rattle out the shots that i need. it may be a few days but it will be worth it. i&rsquo;ve got so many side projects of things that i need to just get out and be done with.</p>\n",
+				"content_text": "having to re-format a ugc script so that i both understand it and it makes sense on location so time is not wasted and i can rapidly rattle out the shots that i need. it may be a few days but it will be worth it. i've got so many side projects of things that i need to just get out and be done with.\n",
+				"date_published": "2026-03-10T16:28:49-04:00",
+				"url": "https://sett.ee/2026/03/10/having-to-reformat-a-ugc.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/03/10/if-you-are-not-using.html",
+				
+				"content_html": "<p>if you are not using GSD with claude code you are missing out, it&rsquo;s thoughtful, it asks questions i would never ask and the &ldquo;accountability&rdquo; of the pre-prep-plan vibes are fantastic. i can do a few a day and feel like i&rsquo;m moving the needle which is nice between the madness.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "if you are not using GSD with claude code you are missing out, it's thoughtful, it asks questions i would never ask and the \"accountability\" of the pre-prep-plan vibes are fantastic. i can do a few a day and feel like i'm moving the needle which is nice between the madness.\n\n<img src=\"uploads/2026/paste-67dd5cde.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-10T13:35:36-04:00",
+				"url": "https://sett.ee/2026/03/10/if-you-are-not-using.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/03/09/its-crazy-what-you-can.html",
+				
+				"content_html": "<p>it&rsquo;s crazy what you can &ldquo;1-shot&rdquo; these days, i used the platform here.now, added the skill/mcp for it, then literally described a 1-pager i&rsquo;d like to see in claude code &ndash; nothing that&rsquo;s useable, but from prompt to website was wild, i&rsquo;m sure i&rsquo;ll be spinning up these, wish i could use carrd.co</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "it's crazy what you can \"1-shot\" these days, i used the platform here.now, added the skill/mcp for it, then literally described a 1-pager i'd like to see in claude code -- nothing that's useable, but from prompt to website was wild, i'm sure i'll be spinning up these, wish i could use carrd.co\n\n<img src=\"uploads/2026/paste-afadbab8.png\" width=\"600\" height=\"412\" alt=\"\"><img src=\"uploads/2026/paste-8f6e530b.png\" width=\"600\" height=\"349\" alt=\"\"><img src=\"uploads/2026/paste-d9ae5cf8.png\" width=\"600\" height=\"351\" alt=\"\">\n",
+				"date_published": "2026-03-09T16:24:29-04:00",
+				"url": "https://sett.ee/2026/03/09/its-crazy-what-you-can.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/03/09/we-got-straight-sunshine-for.html",
 				
 				"content_html": "<p>we got straight sunshine for the next three days, i feel like it&rsquo;s giving me life! been in such survival/batten down the hatches winter mode, the winter here is nuts, i had no idea, got a gig to complete next few days and i&rsquo;m still studying for a test too &ndash; hoping for a good week!</p>\n<!-- raw HTML omitted -->\n",
@@ -26,7 +50,7 @@
 				"id": "http://humble.micro.blog/2026/03/06/i-feel-like-in-another.html",
 				
 				"content_html": "<p>i feel like in another life japan would have been home. regardless of what goes on in each country and their governments and such like i could totally see myself nipping out to get a bowl of ramen from some badass spot nearby as i descend in the elevator. pipe dreams, previous slipstream life echo!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "i feel like in another life japan would have been home. regardless of what goes on in each country and their governments and such like i could totally see myself nipping out to get a bowl of ramen from some badass spot nearby as i descend in the elevator. pipe dreams, previous slipstream life echo!\n\n<img src=\"uploads/2026/d11a1dac4b.jpg\">\n",
+				"content_text": "i feel like in another life japan would have been home. regardless of what goes on in each country and their governments and such like i could totally see myself nipping out to get a bowl of ramen from some badass spot nearby as i descend in the elevator. pipe dreams, previous slipstream life echo!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/d11a1dac4b.jpg\">\n",
 				"date_published": "2026-03-06T14:40:12-04:00",
 				"url": "https://sett.ee/2026/03/06/i-feel-like-in-another.html"
 			},
@@ -42,7 +66,7 @@
 				"id": "http://humble.micro.blog/2026/03/05/your-mac-speaks-your-agent.html",
 				
 				"content_html": "<p><a href=\"https://playbooks.com\">Your</a> <a href=\"https://github.com/ivan-digital/qwen3-asr-swift\">Mac</a> <a href=\"https://huggingface.co/aufklarer/PersonaPlex-7B-MLX-4bit\">speaks</a>, <a href=\"https://alibaba.github.io/page-agent\">your</a> <a href=\"https://alibaba.github.io/page-agent\">agent</a> <a href=\"https://acko.net/blog/the-l-in-llm-stands-for-lying\">lies</a>, <a href=\"https://earth-garden.alen.ro\">the</a> <a href=\"https://earth-garden.alen.ro\">world</a> <a href=\"https://earth-garden.alen.ro\">records</a> <a href=\"https://www.youtube.com/channel/UCdCdZg90LAvxLWpl-yEj0Og\">itself</a>, and <a href=\"https://x.com/blizaine/status/2029330454122242106\">someone</a> <a href=\"https://x.com/blizaine/status/2029330454122242106\">vibe-coded</a> <a href=\"https://www.aivideo.com\">your</a> <a href=\"https://x.com/Jacobsklug/status/2029550513747112377\">entire</a> <a href=\"https://x.com/Jacobsklug/status/2029550513747112377\">company</a> <a href=\"https://www.seomachine.io\">this</a> <a href=\"https://github.com/RightNow-AI/openfang\">weekend</a> &ndash; this will improve over time, i&rsquo;m still trying to dial this thing in, i guess i need to build out a skill that covers exactly what i want it to do, it&rsquo;s getting close thou.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Your](https://playbooks.com) [Mac](https://github.com/ivan-digital/qwen3-asr-swift) [speaks](https://huggingface.co/aufklarer/PersonaPlex-7B-MLX-4bit), [your](https://alibaba.github.io/page-agent) [agent](https://alibaba.github.io/page-agent) [lies](https://acko.net/blog/the-l-in-llm-stands-for-lying), [the](https://earth-garden.alen.ro) [world](https://earth-garden.alen.ro) [records](https://earth-garden.alen.ro) [itself](https://www.youtube.com/channel/UCdCdZg90LAvxLWpl-yEj0Og), and [someone](https://x.com/blizaine/status/2029330454122242106) [vibe-coded](https://x.com/blizaine/status/2029330454122242106) [your](https://www.aivideo.com) [entire](https://x.com/Jacobsklug/status/2029550513747112377) [company](https://x.com/Jacobsklug/status/2029550513747112377) [this](https://www.seomachine.io) [weekend](https://github.com/RightNow-AI/openfang) -- this will improve over time, i'm still trying to dial this thing in, i guess i need to build out a skill that covers exactly what i want it to do, it's getting close thou.\n\n<img src=\"uploads/2026/paste-3dadf2eb.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "[Your](https://playbooks.com) [Mac](https://github.com/ivan-digital/qwen3-asr-swift) [speaks](https://huggingface.co/aufklarer/PersonaPlex-7B-MLX-4bit), [your](https://alibaba.github.io/page-agent) [agent](https://alibaba.github.io/page-agent) [lies](https://acko.net/blog/the-l-in-llm-stands-for-lying), [the](https://earth-garden.alen.ro) [world](https://earth-garden.alen.ro) [records](https://earth-garden.alen.ro) [itself](https://www.youtube.com/channel/UCdCdZg90LAvxLWpl-yEj0Og), and [someone](https://x.com/blizaine/status/2029330454122242106) [vibe-coded](https://x.com/blizaine/status/2029330454122242106) [your](https://www.aivideo.com) [entire](https://x.com/Jacobsklug/status/2029550513747112377) [company](https://x.com/Jacobsklug/status/2029550513747112377) [this](https://www.seomachine.io) [weekend](https://github.com/RightNow-AI/openfang) -- this will improve over time, i'm still trying to dial this thing in, i guess i need to build out a skill that covers exactly what i want it to do, it's getting close thou.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/paste-3dadf2eb.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-05T18:40:18-04:00",
 				"url": "https://sett.ee/2026/03/05/your-mac-speaks-your-agent.html"
 			},

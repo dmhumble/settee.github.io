@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/03/27/well-thats-all-the-flying.html",
+				
+				"content_html": "<p>well that’s all the flying done for now, thankful 🙏 for that to be done for the moment, trying to slip back into our usual life lanes for a little while, change of space/scenery for a few weeks more and then hopefully 🤞 sunshine and summer will come into view, it’s been a lot recently.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "well that’s all the flying done for now, thankful 🙏 for that to be done for the moment, trying to slip back into our usual life lanes for a little while, change of space/scenery for a few weeks more and then hopefully 🤞 sunshine and summer will come into view, it’s been a lot recently.\n\n<img src=\"uploads/2026/5650ca9a40.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-27T11:19:45-04:00",
+				"url": "https://sett.ee/2026/03/27/well-thats-all-the-flying.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/03/26/picking-one-up-my-m.html",
+				
+				"content_html": "<p>picking one up, my m1 keyboard is shot and really I need an iPad but this works better I think for my need which is mainly remote talking to my main machine for llm stuff anyway, crazy how that took over from my usual day to day to an augmented automated set of systems personalised for my needs.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "picking one up, my m1 keyboard is shot and really I need an iPad but this works better I think for my need which is mainly remote talking to my main machine for llm stuff anyway, crazy how that took over from my usual day to day to an augmented automated set of systems personalised for my needs.\n\n<img src=\"uploads/2026/6e22698a1b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-26T09:12:04-04:00",
+				"url": "https://sett.ee/2026/03/26/picking-one-up-my-m.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/03/25/just-discovered-this-for-the.html",
 				
 				"content_html": "<p>just discovered this for the first time in my life, I’ve had like cardboard/wood things like this but not with a clip and an inside bit I’m sure I could design something cool with this! internals wise, something with an esp32 kinda thing.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +58,7 @@
 				"id": "http://humble.micro.blog/2026/03/17/new-bone-in-pork-shoulder.html",
 				
 				"content_html": "<p>new bone in pork shoulder hack, made up this nice piece the other week, about 7/8lb worth, bargain around $12/14 and can be used for little containers of ready to go protein in the freezer, got these green costco freezer things that work a treat for rapid lunchtime lunch building!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "new bone in pork shoulder hack, made up this nice piece the other week, about 7/8lb worth, bargain around $12/14 and can be used for little containers of ready to go protein in the freezer, got these green costco freezer things that work a treat for rapid lunchtime lunch building!\n\n<img src=\"uploads/2026/4641ba74ab.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "new bone in pork shoulder hack, made up this nice piece the other week, about 7/8lb worth, bargain around $12/14 and can be used for little containers of ready to go protein in the freezer, got these green costco freezer things that work a treat for rapid lunchtime lunch building!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/4641ba74ab.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-17T08:35:00-04:00",
 				"url": "https://sett.ee/2026/03/17/new-bone-in-pork-shoulder.html",
 				"tags": ["nomnomnom"]

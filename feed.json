@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/03/30/the-sunshine-is-out-coffee.html",
+				
+				"content_html": "<p>the sunshine is out, coffee is going down, it&rsquo;s a new week, it&rsquo;s a new day. thankful for resources and the ability to move and take part in life, not exist within it. it&rsquo;s been an intense month. tried to pick up an m4 mac mini but they seem all sold out locally. m5 mac mini soon? :)</p>\n",
+				"content_text": "the sunshine is out, coffee is going down, it's a new week, it's a new day. thankful for resources and the ability to move and take part in life, not exist within it. it's been an intense month. tried to pick up an m4 mac mini but they seem all sold out locally. m5 mac mini soon? :)\n",
+				"date_published": "2026-03-30T11:09:03-04:00",
+				"url": "https://sett.ee/2026/03/30/the-sunshine-is-out-coffee.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/03/27/well-thats-all-the-flying.html",
 				
 				"content_html": "<p>well that’s all the flying done for now, thankful 🙏 for that to be done for the moment, trying to slip back into our usual life lanes for a little while, change of space/scenery for a few weeks more and then hopefully 🤞 sunshine and summer will come into view, it’s been a lot recently.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://humble.micro.blog/2026/03/21/seems-i-had-one-left.html",
 				
 				"content_html": "<p>seems I had one left in the drafts there 😞 just pushed as it’s relevant in the timeline of things, a plane ride and a refresh and we are ready for what’s ahead for this week, my extended family needs us and so we are here — it’s warm, good sleep, good breakfast 🥞</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "seems I had one left in the drafts there 😞 just pushed as it’s relevant in the timeline of things, a plane ride and a refresh and we are ready for what’s ahead for this week, my extended family needs us and so we are here — it’s warm, good sleep, good breakfast 🥞 \n\n<img src=\"uploads/2026/e40136eb97.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "seems I had one left in the drafts there 😞 just pushed as it’s relevant in the timeline of things, a plane ride and a refresh and we are ready for what’s ahead for this week, my extended family needs us and so we are here — it’s warm, good sleep, good breakfast 🥞 \n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/e40136eb97.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-21T08:38:16-04:00",
 				"url": "https://sett.ee/2026/03/21/seems-i-had-one-left.html"
 			},

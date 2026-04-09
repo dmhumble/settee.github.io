@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/04/09/im-easily-swayed-into-trying.html",
+				
+				"content_html": "<p>I’m easily swayed into trying new drinks even though I know most of the time they are complete poison — I have to say the cloud latte banana 🍌 is tasty but I’m not sure if they just rotted my insides in the process. it’s so hard to find good drinks these days.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m easily swayed into trying new drinks even though I know most of the time they are complete poison — I have to say the cloud latte banana 🍌 is tasty but I’m not sure if they just rotted my insides in the process. it’s so hard to find good drinks these days.\n\n<img src=\"uploads/2026/c44bd3aadb.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-09T11:20:22-04:00",
+				"url": "https://sett.ee/2026/04/09/im-easily-swayed-into-trying.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/04/09/good-morning-hooked-up-an.html",
+				
+				"content_html": "<p>good morning, hooked up an old decentralized platform i used to use yesterday, had a bunch of keychain issues this morning because python binary had updated but all good, will have an .env backup in some way or encrypted file setup, sunny out today, temps rising, much house sorting to be done.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "good morning, hooked up an old decentralized platform i used to use yesterday, had a bunch of keychain issues this morning because python binary had updated but all good, will have an .env backup in some way or encrypted file setup, sunny out today, temps rising, much house sorting to be done.\n\n<img src=\"uploads/2026/paste-bb244e9c.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-09T09:38:15-04:00",
+				"url": "https://sett.ee/2026/04/09/good-morning-hooked-up-an.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/04/08/its-crazy-expensive-to-be.html",
+				
+				"content_html": "<p>it&rsquo;s crazy expensive to be a gamer at the cutting edge these days, literally FOUR GRAND for a top flight graphics card, that&rsquo;s insane to me, i cannot keep up with the tech debt of inflation and ai absolutely destroying my hopes of affording an up to date gaming rig in the near future.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "it's crazy expensive to be a gamer at the cutting edge these days, literally FOUR GRAND for a top flight graphics card, that's insane to me, i cannot keep up with the tech debt of inflation and ai absolutely destroying my hopes of affording an up to date gaming rig in the near future.\n\n<img src=\"uploads/2026/e708b3f6fe.jpg\" width=\"600\" height=\"394\" alt=\"\">\n",
+				"date_published": "2026-04-08T12:19:15-04:00",
+				"url": "https://sett.ee/2026/04/08/its-crazy-expensive-to-be.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/04/08/you-know-a-retro-video.html",
+				
+				"content_html": "<p>you know a retro video games store is legit when they still have a http address and not https &ndash; i&rsquo;m hoping that i can find mario sunshine there when we get chance to drop in! :)</p>\n",
+				"content_text": "you know a retro video games store is legit when they still have a http address and not https -- i'm hoping that i can find mario sunshine there when we get chance to drop in! :)\n",
+				"date_published": "2026-04-08T12:12:27-04:00",
+				"url": "https://sett.ee/2026/04/08/you-know-a-retro-video.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/04/08/yesterday-i-put-a-m.html",
 				
 				"content_html": "<p>yesterday i put a m4 mac mini in my cart, one popped up on amazon at $599, overnight that&rsquo;s gone, people still buying them like crazy, today, we now have this from apple, a bump to 24gb and 3 years of care+ and an interesting pricing point. i think these are the last ones until the m5 mac mini.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +74,7 @@
 				"id": "http://humble.micro.blog/2026/04/01/a-dog-might-be-on.html",
 				
 				"content_html": "<p>a dog might be on the horizon for this year at some point and while my body is ready for that my poor brain is firefighting already the demands it will have, it&rsquo;s a big commitment really as you life revolves around it but it&rsquo;s a nice thing, i&rsquo;m just waiting for the dog to human llm interface to come</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "a dog might be on the horizon for this year at some point and while my body is ready for that my poor brain is firefighting already the demands it will have, it's a big commitment really as you life revolves around it but it's a nice thing, i'm just waiting for the dog to human llm interface to come\n\n<img src=\"uploads/2026/ea51c8d479.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "a dog might be on the horizon for this year at some point and while my body is ready for that my poor brain is firefighting already the demands it will have, it's a big commitment really as you life revolves around it but it's a nice thing, i'm just waiting for the dog to human llm interface to come\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/ea51c8d479.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-01T14:27:38-04:00",
 				"url": "https://sett.ee/2026/04/01/a-dog-might-be-on.html"
 			},

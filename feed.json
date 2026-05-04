@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/05/04/head-down-into-the-code.html",
+				
+				"content_html": "<p>head down into the code this morning, gotta make sure i make all these ideas and concepts a reality, the build process is going well for experiments and apps, just gotta start building some of those out, pulled a little bit from pillar to post, gotta lock in. happy monday!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "head down into the code this morning, gotta make sure i make all these ideas and concepts a reality, the build process is going well for experiments and apps, just gotta start building some of those out, pulled a little bit from pillar to post, gotta lock in. happy monday!\n\n<img src=\"uploads/2026/ca53e2dca4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-05-04T11:51:53-04:00",
+				"url": "https://sett.ee/2026/05/04/head-down-into-the-code.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/05/01/its-crazy-to-me-how.html",
+				
+				"content_html": "<p>it&rsquo;s crazy to me how far me and my wife have come in the last year, so many changes and adaptations, everyday is another day to level up, we seem to be running alongside all these changes at different speeds, happy for the progress, seems to be a compounding effect and i&rsquo;m here for it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "it's crazy to me how far me and my wife have come in the last year, so many changes and adaptations, everyday is another day to level up, we seem to be running alongside all these changes at different speeds, happy for the progress, seems to be a compounding effect and i'm here for it.\n\n<img src=\"uploads/2026/d66c50c9e8.jpg\" width=\"600\" height=\"510\" alt=\"\">\n",
+				"date_published": "2026-05-01T12:35:27-04:00",
+				"url": "https://sett.ee/2026/05/01/its-crazy-to-me-how.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/04/29/im-gonna-guess-being-the.html",
+				
+				"content_html": "<p>i&rsquo;m gonna guess being the lead network engineer at claude.ai comes with a stipend for daily spa treatment, on call mental health advisor and a fat stack of stock options because god damn, if my status uptime looked like a micro pez dispenser exhibition i&rsquo;d be stressed out too &ndash; ya doing god&rsquo;s work.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "i'm gonna guess being the lead network engineer at claude.ai comes with a stipend for daily spa treatment, on call mental health advisor and a fat stack of stock options because god damn, if my status uptime looked like a micro pez dispenser exhibition i'd be stressed out too -- ya doing god's work.\n\n<img src=\"uploads/2026/paste-fc3f2890.png\" width=\"600\" height=\"555\" alt=\"\">\n",
+				"date_published": "2026-04-29T20:57:37-04:00",
+				"url": "https://sett.ee/2026/04/29/im-gonna-guess-being-the.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/04/29/205449.html",
+				
+				"content_html": "<p><a href=\"https://github.com/cloudflare/doom-wasm\">github.com/cloudflar&hellip;</a> &ndash; yep, that&rsquo;s chocolate doom, webassemly port with websockets support for multiplayer &ndash; do you remember loading doom for the first time on ya beige 486 with that graphics card you saved up for and calling ya mate to setup a modem call. we really did that.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[github.com/cloudflar...](https://github.com/cloudflare/doom-wasm) -- yep, that's chocolate doom, webassemly port with websockets support for multiplayer -- do you remember loading doom for the first time on ya beige 486 with that graphics card you saved up for and calling ya mate to setup a modem call. we really did that.\n\n<img src=\"uploads/2026/paste-75e81de6.png\" width=\"600\" height=\"473\" alt=\"\">\n",
+				"date_published": "2026-04-29T20:54:49-04:00",
+				"url": "https://sett.ee/2026/04/29/205449.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/04/29/i-presume-its-a-bit.html",
+				
+				"content_html": "<p>i presume it&rsquo;s a bit of a waste to have an ai agent scan 15/20 minutes away me for when a GDK (german donner kebab) pops up right? there is literally only one here i can see on the east coast and it&rsquo;s not freaking close. also, dude, tempo.xyz and this <a href=\"https://mpp.dev/services\">mpp.dev/services</a> it&rsquo;s a brave new world</p>\n",
+				"content_text": "i presume it's a bit of a waste to have an ai agent scan 15/20 minutes away me for when a GDK (german donner kebab) pops up right? there is literally only one here i can see on the east coast and it's not freaking close. also, dude, tempo.xyz and this [mpp.dev/services](https://mpp.dev/services) it's a brave new world\n",
+				"date_published": "2026-04-29T20:53:23-04:00",
+				"url": "https://sett.ee/2026/04/29/i-presume-its-a-bit.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/04/29/you-can-certainly-feel-the.html",
 				
 				"content_html": "<p>you can certainly feel the lack of compute that claude has right now, it feels like a race to the bottom, do i just accept that my super fast kimi2.6 is kinda dumb compared but cheaper or go the opposite way and pay more for claude just to get more computer/exclusivity &ndash; seems lose lose tbh.</p>\n",
@@ -18,7 +58,7 @@
 				"id": "http://humble.micro.blog/2026/04/29/one-day-is-not-like.html",
 				
 				"content_html": "<p>one day is not like the next, work coming in just as we start may, kinda crazy, normally that work would start in feb so things have definately changed and it&rsquo;s an indication that the things i&rsquo;m working on are the micro adjustments i need to carry myself forward, so many plates spinning!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "one day is not like the next, work coming in just as we start may, kinda crazy, normally that work would start in feb so things have definately changed and it's an indication that the things i'm working on are the micro adjustments i need to carry myself forward, so many plates spinning!\n\n<img src=\"uploads/2026/fcb7e96875.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "one day is not like the next, work coming in just as we start may, kinda crazy, normally that work would start in feb so things have definately changed and it's an indication that the things i'm working on are the micro adjustments i need to carry myself forward, so many plates spinning!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/fcb7e96875.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-29T09:31:34-04:00",
 				"url": "https://sett.ee/2026/04/29/one-day-is-not-like.html"
 			},
@@ -34,7 +74,7 @@
 				"id": "http://humble.micro.blog/2026/04/28/mindful-meditation-just-felt-good.html",
 				
 				"content_html": "<p>mindful 🧘 meditation just, felt good, now it’s time for taco 🌮 tuesday vibes, delicious, hit session limit anyway, that doesn’t stop anything thou, we just jump back into the next thing — always stuff to do, you cannot stop the vibes today! try as you might, we adjust! woot.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "mindful 🧘 meditation just, felt good, now it’s time for taco 🌮 tuesday vibes, delicious, hit session limit anyway, that doesn’t stop anything thou, we just jump back into the next thing — always stuff to do, you cannot stop the vibes today! try as you might, we adjust! woot.\n\n<img src=\"uploads/2026/cbe7b3e342.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "mindful 🧘 meditation just, felt good, now it’s time for taco 🌮 tuesday vibes, delicious, hit session limit anyway, that doesn’t stop anything thou, we just jump back into the next thing — always stuff to do, you cannot stop the vibes today! try as you might, we adjust! woot.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/cbe7b3e342.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-28T13:20:46-04:00",
 				"url": "https://sett.ee/2026/04/28/mindful-meditation-just-felt-good.html"
 			},
@@ -42,7 +82,7 @@
 				"id": "http://humble.micro.blog/2026/04/28/today-is-going-to-be.html",
 				
 				"content_html": "<p>today is going to be a productive day, i can just feel it in my bones, plenty of &ldquo;irons in the fire&rdquo; and i&rsquo;m feeling progress, hindered a little bit by limits on my coding buddy but you know what i&rsquo;ve realized that there is a lot of value in small bets, they add up to a bunch of bigger bets.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "today is going to be a productive day, i can just feel it in my bones, plenty of \"irons in the fire\" and i'm feeling progress, hindered a little bit by limits on my coding buddy but you know what i've realized that there is a lot of value in small bets, they add up to a bunch of bigger bets.\n\n<img src=\"uploads/2026/e49b9b6fbe.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "today is going to be a productive day, i can just feel it in my bones, plenty of \"irons in the fire\" and i'm feeling progress, hindered a little bit by limits on my coding buddy but you know what i've realized that there is a lot of value in small bets, they add up to a bunch of bigger bets.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/e49b9b6fbe.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-28T09:42:35-04:00",
 				"url": "https://sett.ee/2026/04/28/today-is-going-to-be.html"
 			},
@@ -91,7 +131,7 @@
 				"id": "http://humble.micro.blog/2026/04/23/really-looking-forward-to-having.html",
 				
 				"content_html": "<p>really looking forward to having additional &ldquo;for all mankind&rdquo; content/alternate viewpoints and what was happening at the time crossover, certainly a lot of story can be built out here as she was passing information back and forth and ultimately worked for them before defecting back and then prison!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "really looking forward to having additional \"for all mankind\" content/alternate viewpoints and what was happening at the time crossover, certainly a lot of story can be built out here as she was passing information back and forth and ultimately worked for them before defecting back and then prison!\n\n<img src=\"uploads/2026/f85dd2044a.jpg\" width=\"600\" height=\"315\" alt=\"\">\n",
+				"content_text": "really looking forward to having additional \"for all mankind\" content/alternate viewpoints and what was happening at the time crossover, certainly a lot of story can be built out here as she was passing information back and forth and ultimately worked for them before defecting back and then prison!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/f85dd2044a.jpg\" width=\"600\" height=\"315\" alt=\"\">\n",
 				"date_published": "2026-04-23T13:59:23-04:00",
 				"url": "https://sett.ee/2026/04/23/really-looking-forward-to-having.html"
 			},
@@ -115,7 +155,7 @@
 				"id": "http://humble.micro.blog/2026/04/23/hitting-limits-already-this-morning.html",
 				
 				"content_html": "<p>hitting limits already this morning (ai) so i&rsquo;m taking that as a sign to have a relatively calm/relaxed/slower day today, maybe more planning and sketching and meditation and movement, my ankles certainly want that, i know i need it, also need to plan out what&rsquo;s next now we have momentum.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "hitting limits already this morning (ai) so i'm taking that as a sign to have a relatively calm/relaxed/slower day today, maybe more planning and sketching and meditation and movement, my ankles certainly want that, i know i need it, also need to plan out what's next now we have momentum.\n\n<img src=\"uploads/2026/hitting-the-limits.webp\" width=\"600\" height=\"600\" alt=\"A group of workers, with one man dramatically holding a drill, walk through a dim corridor under a large banner reading Embracing Limits.\">\n",
+				"content_text": "hitting limits already this morning (ai) so i'm taking that as a sign to have a relatively calm/relaxed/slower day today, maybe more planning and sketching and meditation and movement, my ankles certainly want that, i know i need it, also need to plan out what's next now we have momentum.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/hitting-the-limits.webp\" width=\"600\" height=\"600\" alt=\"A group of workers, with one man dramatically holding a drill, walk through a dim corridor under a large banner reading Embracing Limits.\">\n",
 				"date_published": "2026-04-23T09:34:16-04:00",
 				"url": "https://sett.ee/2026/04/23/hitting-limits-already-this-morning.html"
 			},

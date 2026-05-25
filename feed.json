@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/05/25/feels-like-sunday-actually-monday.html",
+				
+				"content_html": "<p>feels like sunday, actually monday, i can&rsquo;t with us holidays, they are weird. one of the things i&rsquo;m gonna do with my new 5-person team agent is make sure all of this stuff is absolutely covered and locked down. terrible with the boring stuff ya know?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "feels like sunday, actually monday, i can't with us holidays, they are weird. one of the things i'm gonna do with my new 5-person team agent is make sure all of this stuff is absolutely covered and locked down. terrible with the boring stuff ya know?\n\n<img src=\"uploads/2026/9b1486f770.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-05-25T15:30:35-04:00",
+				"url": "https://sett.ee/2026/05/25/feels-like-sunday-actually-monday.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/05/22/one-day-this-will-be.html",
+				
+				"content_html": "<p>one day, this will be me, sitting on the tail gate of something without a bunch of tech or telemetry just baking away in some little outta the way place somewhere living out the rest of my days in some kind of shack like home for the weary traveller. so much space, so much land, so much, out there.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "one day, this will be me, sitting on the tail gate of something without a bunch of tech or telemetry just baking away in some little outta the way place somewhere living out the rest of my days in some kind of shack like home for the weary traveller. so much space, so much land, so much, out there.\n\n<img src=\"uploads/2026/325ec0295b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-05-22T12:34:39-04:00",
+				"url": "https://sett.ee/2026/05/22/one-day-this-will-be.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/05/22/wow-cant-believe-it-time.html",
 				
 				"content_html": "<p>wow, can&rsquo;t believe it, time flies, just like that may is nearly wrapping up, the best thing i can say about this month is that my daughter was born in may, it&rsquo;s a fantastic memory, one i&rsquo;ll take to my grave. live everyday as it comes, days go to weeks and weeks to months real quick. be messy. live!</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +50,7 @@
 				"id": "http://humble.micro.blog/2026/05/21/claude-design-is-going-to.html",
 				
 				"content_html": "<p>claude design is going to change everything for me. i know the jargon, lingo and i know how to prompt these things. i&rsquo;ve got the frontend tinker locked down, got processes to wire up and scaffold on the backend with claude code, hosting, domains, easy dub. now need to just have speed to deploy.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "claude design is going to change everything for me. i know the jargon, lingo and i know how to prompt these things. i've got the frontend tinker locked down, got processes to wire up and scaffold on the backend with claude code, hosting, domains, easy dub. now need to just have speed to deploy.\n\n<img src=\"uploads/2026/d37c74f757.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "claude design is going to change everything for me. i know the jargon, lingo and i know how to prompt these things. i've got the frontend tinker locked down, got processes to wire up and scaffold on the backend with claude code, hosting, domains, easy dub. now need to just have speed to deploy.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/d37c74f757.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-21T12:33:35-04:00",
 				"url": "https://sett.ee/2026/05/21/claude-design-is-going-to.html"
 			},

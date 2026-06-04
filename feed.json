@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/06/04/the-macbook-neo-is-an.html",
+				
+				"content_html": "<p>the macbook neo is an interesting machine, claude code did not know about it and it&rsquo;s weird to use an A18pro chip when you think it&rsquo;s running like an M chip. either way, i&rsquo;m here for it, pumped i have it for the sofa times.</p>\n",
+				"content_text": "the macbook neo is an interesting machine, claude code did not know about it and it's weird to use an A18pro chip when you think it's running like an M chip. either way, i'm here for it, pumped i have it for the sofa times.\n",
+				"date_published": "2026-06-04T08:53:19-04:00",
+				"url": "https://sett.ee/2026/06/04/the-macbook-neo-is-an.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/06/02/all-the-morning-routines-are.html",
+				
+				"content_html": "<p>all the morning routines are done, locked and loaded, ready to get into the day, my wakeup routine is pretty solid what i struggle with is the diversity in the day of taking time for myself, self-care and all that, trying to lock in on time blocking so i&rsquo;m alert to how much time i have to utilize.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "all the morning routines are done, locked and loaded, ready to get into the day, my wakeup routine is pretty solid what i struggle with is the diversity in the day of taking time for myself, self-care and all that, trying to lock in on time blocking so i'm alert to how much time i have to utilize.\n\n<img src=\"uploads/2026/9410d71698.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-06-02T08:01:49-04:00",
+				"url": "https://sett.ee/2026/06/02/all-the-morning-routines-are.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/06/01/not-us-in-the-vet.html",
 				
 				"content_html": "<p>not us in the vet but we went to the real world vet. models that support more than one reference image are absolutely wild, it got the dog and me perfectly. super impressed. he&rsquo;s fine btw, just the first time to see how he&rsquo;s doing and he&rsquo;s doing great!</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +50,7 @@
 				"id": "http://humble.micro.blog/2026/05/30/nothing-makes-me-more-happy.html",
 				
 				"content_html": "<p>nothing makes me more happy than to see one of my loved ones happy and I simply cannot wait for my daughter to visit and meet him - she’s going to love him too. he slept so good in his crate for the first time last night.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "nothing makes me more happy than to see one of my loved ones happy and I simply cannot wait for my daughter to visit and meet him - she’s going to love him too. he slept so good in his crate for the first time last night.\n\n<img src=\"uploads/2026/f8f4870186.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "nothing makes me more happy than to see one of my loved ones happy and I simply cannot wait for my daughter to visit and meet him - she’s going to love him too. he slept so good in his crate for the first time last night.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/f8f4870186.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-30T08:32:27-04:00",
 				"url": "https://sett.ee/2026/05/30/nothing-makes-me-more-happy.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://humble.micro.blog/2026/05/29/yep-a-dog-the-family.html",
 				
 				"content_html": "<p>yep a dog, the family dog you might say. a puppy with all the puppy things that happens along with it. i&rsquo;m excited about it. it&rsquo;s something my wife and me have wanted for a very long time. all change people, all change!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "yep a dog, the family dog you might say. a puppy with all the puppy things that happens along with it. i'm excited about it. it's something my wife and me have wanted for a very long time. all change people, all change!\n\n<img src=\"uploads/2026/ffdc86f739.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "yep a dog, the family dog you might say. a puppy with all the puppy things that happens along with it. i'm excited about it. it's something my wife and me have wanted for a very long time. all change people, all change!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/ffdc86f739.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-29T18:26:45-04:00",
 				"url": "https://sett.ee/2026/05/29/yep-a-dog-the-family.html"
 			},
@@ -58,7 +74,7 @@
 				"id": "http://humble.micro.blog/2026/05/29/we-be-executive-with-it.html",
 				
 				"content_html": "<p>we be executive with it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "we be executive with it.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/62b394f9ce.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "we be executive with it.\n\n<img src=\"uploads/2026/62b394f9ce.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-29T09:15:02-04:00",
 				"url": "https://sett.ee/2026/05/29/we-be-executive-with-it.html"
 			},
@@ -434,7 +450,7 @@
 				"id": "http://humble.micro.blog/2026/04/29/im-gonna-guess-being-the.html",
 				
 				"content_html": "<p>i&rsquo;m gonna guess being the lead network engineer at claude.ai comes with a stipend for daily spa treatment, on call mental health advisor and a fat stack of stock options because god damn, if my status uptime looked like a micro pez dispenser exhibition i&rsquo;d be stressed out too &ndash; ya doing god&rsquo;s work.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "i'm gonna guess being the lead network engineer at claude.ai comes with a stipend for daily spa treatment, on call mental health advisor and a fat stack of stock options because god damn, if my status uptime looked like a micro pez dispenser exhibition i'd be stressed out too -- ya doing god's work.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/paste-fc3f2890.png\" width=\"600\" height=\"555\" alt=\"\">\n",
+				"content_text": "i'm gonna guess being the lead network engineer at claude.ai comes with a stipend for daily spa treatment, on call mental health advisor and a fat stack of stock options because god damn, if my status uptime looked like a micro pez dispenser exhibition i'd be stressed out too -- ya doing god's work.\n\n<img src=\"uploads/2026/paste-fc3f2890.png\" width=\"600\" height=\"555\" alt=\"\">\n",
 				"date_published": "2026-04-29T20:57:37-04:00",
 				"url": "https://sett.ee/2026/04/29/im-gonna-guess-being-the.html"
 			},
@@ -515,7 +531,7 @@
 				"id": "http://humble.micro.blog/2026/04/24/this-actually-crazy-to-see.html",
 				
 				"content_html": "<p>this actually crazy to see, it was like $34 something this time last year and now it&rsquo;s approaching $1000, it&rsquo;s like being in nvidia territory, wild, ai and inference is putting massive demand on NAND, they sold out supply past 2027 already, so where will this price head too you think? wild times.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "this actually crazy to see, it was like $34 something this time last year and now it's approaching $1000, it's like being in nvidia territory, wild, ai and inference is putting massive demand on NAND, they sold out supply past 2027 already, so where will this price head too you think? wild times.\n\n<img src=\"uploads/2026/paste-41154091.png\" width=\"352\" height=\"352\" alt=\"\">\n",
+				"content_text": "this actually crazy to see, it was like $34 something this time last year and now it's approaching $1000, it's like being in nvidia territory, wild, ai and inference is putting massive demand on NAND, they sold out supply past 2027 already, so where will this price head too you think? wild times.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/paste-41154091.png\" width=\"352\" height=\"352\" alt=\"\">\n",
 				"date_published": "2026-04-24T15:19:03-04:00",
 				"url": "https://sett.ee/2026/04/24/this-actually-crazy-to-see.html"
 			},
@@ -539,7 +555,7 @@
 				"id": "http://humble.micro.blog/2026/04/23/really-looking-forward-to-having.html",
 				
 				"content_html": "<p>really looking forward to having additional &ldquo;for all mankind&rdquo; content/alternate viewpoints and what was happening at the time crossover, certainly a lot of story can be built out here as she was passing information back and forth and ultimately worked for them before defecting back and then prison!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "really looking forward to having additional \"for all mankind\" content/alternate viewpoints and what was happening at the time crossover, certainly a lot of story can be built out here as she was passing information back and forth and ultimately worked for them before defecting back and then prison!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/f85dd2044a.jpg\" width=\"600\" height=\"315\" alt=\"\">\n",
+				"content_text": "really looking forward to having additional \"for all mankind\" content/alternate viewpoints and what was happening at the time crossover, certainly a lot of story can be built out here as she was passing information back and forth and ultimately worked for them before defecting back and then prison!\n\n<img src=\"uploads/2026/f85dd2044a.jpg\" width=\"600\" height=\"315\" alt=\"\">\n",
 				"date_published": "2026-04-23T13:59:23-04:00",
 				"url": "https://sett.ee/2026/04/23/really-looking-forward-to-having.html"
 			},
@@ -563,7 +579,7 @@
 				"id": "http://humble.micro.blog/2026/04/23/hitting-limits-already-this-morning.html",
 				
 				"content_html": "<p>hitting limits already this morning (ai) so i&rsquo;m taking that as a sign to have a relatively calm/relaxed/slower day today, maybe more planning and sketching and meditation and movement, my ankles certainly want that, i know i need it, also need to plan out what&rsquo;s next now we have momentum.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "hitting limits already this morning (ai) so i'm taking that as a sign to have a relatively calm/relaxed/slower day today, maybe more planning and sketching and meditation and movement, my ankles certainly want that, i know i need it, also need to plan out what's next now we have momentum.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/hitting-the-limits.webp\" width=\"600\" height=\"600\" alt=\"A group of workers, with one man dramatically holding a drill, walk through a dim corridor under a large banner reading Embracing Limits.\">\n",
+				"content_text": "hitting limits already this morning (ai) so i'm taking that as a sign to have a relatively calm/relaxed/slower day today, maybe more planning and sketching and meditation and movement, my ankles certainly want that, i know i need it, also need to plan out what's next now we have momentum.\n\n<img src=\"uploads/2026/hitting-the-limits.webp\" width=\"600\" height=\"600\" alt=\"A group of workers, with one man dramatically holding a drill, walk through a dim corridor under a large banner reading Embracing Limits.\">\n",
 				"date_published": "2026-04-23T09:34:16-04:00",
 				"url": "https://sett.ee/2026/04/23/hitting-limits-already-this-morning.html"
 			},
@@ -587,7 +603,7 @@
 				"id": "http://humble.micro.blog/2026/04/19/useful-routes-to-consider-for.html",
 				
 				"content_html": "<p>useful routes to consider for when using any llm models, claude code is one of my favs but just lately the opencode/kimi-2-5-turbo combination has really been working for me, I’m burning through tokens thou so I need to tune that up a little think. gotta done a way to scale! local maybe? overnight!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "useful routes to consider for when using any llm models, claude code is one of my favs but just lately the opencode/kimi-2-5-turbo combination has really been working for me, I’m burning through tokens thou so I need to tune that up a little think. gotta done a way to scale! local maybe? overnight!\n\n<img src=\"uploads/2026/b1014076d1.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"content_text": "useful routes to consider for when using any llm models, claude code is one of my favs but just lately the opencode/kimi-2-5-turbo combination has really been working for me, I’m burning through tokens thou so I need to tune that up a little think. gotta done a way to scale! local maybe? overnight!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/b1014076d1.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-19T20:40:08-04:00",
 				"url": "https://sett.ee/2026/04/19/useful-routes-to-consider-for.html"
 			},

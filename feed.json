@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/06/15/is-everyone-still-ok.html",
+				
+				"content_html": "<p>is everyone still ok?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "is everyone still ok?\n\n<img src=\"uploads/2026/79dcf2d2eb.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-06-15T08:21:01-04:00",
+				"url": "https://sett.ee/2026/06/15/is-everyone-still-ok.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/06/14/these-slap-tbh-probably-awful.html",
+				
+				"content_html": "<p>these slap 👋 tbh. probably awful for me but I like what’s included in the can, have to adjust my regular stack to accommodate thou otherwise I feel jacked so I gotta zero in on what’s amplifying something else — our bodies are wild man, it’s crazy you can tweak it in all areas to optimize function!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "these slap 👋 tbh. probably awful for me but I like what’s included in the can, have to adjust my regular stack to accommodate thou otherwise I feel jacked so I gotta zero in on what’s amplifying something else — our bodies are wild man, it’s crazy you can tweak it in all areas to optimize function!\n\n<img src=\"uploads/2026/65a2464f30.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2026/872916d7af.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-06-14T11:41:32-04:00",
+				"url": "https://sett.ee/2026/06/14/these-slap-tbh-probably-awful.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/06/14/still-in-disbelief-that-we.html",
+				
+				"content_html": "<p>still in disbelief that we lost a brother from another mother so quickly, the fomo is real, i had hoped we had until the 22nd. i&rsquo;m not sure what happens from now, does anthropic have enough street cred with the ai kids to get them back if fable5 can even come back? will this push people to local?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "still in disbelief that we lost a brother from another mother so quickly, the fomo is real, i had hoped we had until the 22nd. i'm not sure what happens from now, does anthropic have enough street cred with the ai kids to get them back if fable5 can even come back? will this push people to local?\n\n<img src=\"uploads/2026/887d6a0cc9.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-06-14T08:45:41-04:00",
+				"url": "https://sett.ee/2026/06/14/still-in-disbelief-that-we.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/06/13/man-im-glad-i-refactored.html",
 				
 				"content_html": "<p>man I’m glad I refactored all the things before they took it away, I’m sure the team is on mission critical 24/7 crisis management right now, I could guess as to the why but I’d rather just enjoy the time with my wife and the dog 🐕 and see how things play out eh?</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -26,7 +50,7 @@
 				"id": "http://humble.micro.blog/2026/06/12/if-you-are-updating-your.html",
 				
 				"content_html": "<p>if you are updating your homebrew today you might have a bunch of casks that are &ldquo;untrusted&rdquo; don&rsquo;t panic, it&rsquo;s just some new defenses for supply chain attacks and personally i welcome them! i&rsquo;m currently building an assessment lab for all the things i use so i can work out WHO TO TRUST, classic!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "if you are updating your homebrew today you might have a bunch of casks that are \"untrusted\" don't panic, it's just some new defenses for supply chain attacks and personally i welcome them! i'm currently building an assessment lab for all the things i use so i can work out WHO TO TRUST, classic!\n\n<img src=\"uploads/2026/9660a8d9dc.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "if you are updating your homebrew today you might have a bunch of casks that are \"untrusted\" don't panic, it's just some new defenses for supply chain attacks and personally i welcome them! i'm currently building an assessment lab for all the things i use so i can work out WHO TO TRUST, classic!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/9660a8d9dc.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-06-12T08:11:39-04:00",
 				"url": "https://sett.ee/2026/06/12/if-you-are-updating-your.html"
 			},
@@ -42,7 +66,7 @@
 				"id": "http://humble.micro.blog/2026/06/11/days-into-weeks-weeks-into.html",
 				
 				"content_html": "<p>days into weeks, weeks into months, months into years. the seasons change fast, our bodies get a little older with the passing of time. people change, expectations move past their original goals, we find ways to adapt, we move with the times, until time moves us.  trying to balance time today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "days into weeks, weeks into months, months into years. the seasons change fast, our bodies get a little older with the passing of time. people change, expectations move past their original goals, we find ways to adapt, we move with the times, until time moves us.  trying to balance time today.\n\n<img src=\"uploads/2026/a65dabafde.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "days into weeks, weeks into months, months into years. the seasons change fast, our bodies get a little older with the passing of time. people change, expectations move past their original goals, we find ways to adapt, we move with the times, until time moves us.  trying to balance time today.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/a65dabafde.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-06-11T09:06:22-04:00",
 				"url": "https://sett.ee/2026/06/11/days-into-weeks-weeks-into.html"
 			},

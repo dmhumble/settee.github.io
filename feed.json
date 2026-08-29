@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/08/28/not-totally-sure-where-i.html",
+				
+				"content_html": "<p>not totally sure where i found this on the internet but it&rsquo;s reminded me of one thing.</p>\n<p>the future is coming fast. we will probably won&rsquo;t be able to understand what we see when we are outside.</p>\n<p>inside is gonna feel way more cosy.  the future is cracked.</p>\n<p>back to the future baby.</p>\n<p><video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"720\" height=\"720\" poster=\"https://eu.uploads.micro.blog/244471/2026/frames/1834543-0-3cd062.jpg\" src=\"https://cdn.uploads.micro.mov/244471/2026/8beef0fe-65ef-4f00-b353-53f5df0ad8c5/playlist.m3u8\"></video></p>\n",
+				"content_text": "not totally sure where i found this on the internet but it's reminded me of one thing.\n\nthe future is coming fast. we will probably won't be able to understand what we see when we are outside.\n\ninside is gonna feel way more cosy.  the future is cracked.\n\nback to the future baby.\n\n<video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"720\" height=\"720\" poster=\"https://eu.uploads.micro.blog/244471/2026/frames/1834543-0-3cd062.jpg\" src=\"https://cdn.uploads.micro.mov/244471/2026/8beef0fe-65ef-4f00-b353-53f5df0ad8c5/playlist.m3u8\"></video>\n",
+				"date_published": "2026-08-28T12:24:56-04:00",
+				"url": "https://sett.ee/2026/08/28/not-totally-sure-where-i.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/08/25/one-of-the-upsides-of.html",
 				
 				"content_html": "<p>one of the upsides of noticing when EU servers are playing up with image loading is you can take that information and build in support into my scheduler if that happens often and delay the image posting until the server is backup, works pretty great actually. thx down server! lol.</p>\n",
@@ -17,32 +25,24 @@
 			{
 				"id": "http://humble.micro.blog/2026/08/25/im-making-insane-progress-with.html",
 				
-				"content_html": "<p>i&rsquo;m making insane progress with the video posting tool for micro.blog for macOS, i cannot wait to release/sell this and talk about it on my youtube channel, i really need to get all my eggs in a row, it&rsquo;s got some great features - click, record, ai transcribe and post to micro.blog! :)</p>\n<img src=\"uploads/2026/9ff1a86ec0.webp\" width=\"600\" height=\"307\" alt=\"\">\n",
-				"content_text": "i'm making insane progress with the video posting tool for micro.blog for macOS, i cannot wait to release/sell this and talk about it on my youtube channel, i really need to get all my eggs in a row, it's got some great features - click, record, ai transcribe and post to micro.blog! :)\n\n<img src=\"uploads/2026/9ff1a86ec0.webp\" width=\"600\" height=\"307\" alt=\"\">\n",
+				"content_html": "<p>i&rsquo;m making insane progress with the video posting tool for micro.blog for macOS, i cannot wait to release/sell this and talk about it on my youtube channel, i really need to get all my eggs in a row, it&rsquo;s got some great features - click, record, ai transcribe and post to micro.blog! :)</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/f586282116.webp\" width=\"600\" height=\"307\" alt=\"\">\n",
+				"content_text": "i'm making insane progress with the video posting tool for micro.blog for macOS, i cannot wait to release/sell this and talk about it on my youtube channel, i really need to get all my eggs in a row, it's got some great features - click, record, ai transcribe and post to micro.blog! :)\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/f586282116.webp\" width=\"600\" height=\"307\" alt=\"\">\n",
 				"date_published": "2026-08-25T08:59:13-04:00",
 				"url": "https://sett.ee/2026/08/25/im-making-insane-progress-with.html"
 			},
 			{
 				"id": "http://humble.micro.blog/2026/08/24/i-took-some-of-the.html",
 				
-				"content_html": "<p>i took some of the methodology of &ldquo;gauntlet loops&rdquo; for macOS swift app creation.</p>\n<p>i also fed it and built out a bunch of skills that it can use that basically has deep dived all the existing app building context.</p>\n<p>it&rsquo;s on round 9.  i&rsquo;m loving this! :)</p>\n<img src=\"uploads/2026/af0fc8852e.webp\" width=\"600\" height=\"313\" alt=\"\">\n",
-				"content_text": "i took some of the methodology of \"gauntlet loops\" for macOS swift app creation.\n\ni also fed it and built out a bunch of skills that it can use that basically has deep dived all the existing app building context.\n\nit's on round 9.  i'm loving this! :)\n\n<img src=\"uploads/2026/af0fc8852e.webp\" width=\"600\" height=\"313\" alt=\"\">\n",
+				"content_html": "<p>i took some of the methodology of &ldquo;gauntlet loops&rdquo; for macOS swift app creation.</p>\n<p>i also fed it and built out a bunch of skills that it can use that basically has deep dived all the existing app building context.</p>\n<p>it&rsquo;s on round 9.  i&rsquo;m loving this! :)</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/630c2f02c7.webp\" width=\"600\" height=\"313\" alt=\"\">\n",
+				"content_text": "i took some of the methodology of \"gauntlet loops\" for macOS swift app creation.\n\ni also fed it and built out a bunch of skills that it can use that basically has deep dived all the existing app building context.\n\nit's on round 9.  i'm loving this! :)\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/630c2f02c7.webp\" width=\"600\" height=\"313\" alt=\"\">\n",
 				"date_published": "2026-08-24T11:28:06-04:00",
 				"url": "https://sett.ee/2026/08/24/i-took-some-of-the.html"
 			},
 			{
-				"id": "http://humble.micro.blog/2026/08/19/taara-which-spun-out-of.html",
-				
-				"content_html": "<p>Taara, which spun out of Alphabet in March 2025. Their current enterprise product, Lightbridge (and the newer Lightbridge Pro), does up to 20 Gbit/s over distances up to 12 miles, using mirrors, sensors and predictive algorithms to keep the beams locked on each other (not actual hardware) super cool</p>\n<img src=\"uploads/2026/c646947c1b.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Taara, which spun out of Alphabet in March 2025. Their current enterprise product, Lightbridge (and the newer Lightbridge Pro), does up to 20 Gbit/s over distances up to 12 miles, using mirrors, sensors and predictive algorithms to keep the beams locked on each other (not actual hardware) super cool\n\n<img src=\"uploads/2026/c646947c1b.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2026-08-19T11:55:38-04:00",
-				"url": "https://sett.ee/2026/08/19/taara-which-spun-out-of.html"
-			},
-			{
 				"id": "http://humble.micro.blog/2026/08/19/the-goal-posts-keep-moving.html",
 				
-				"content_html": "<p>the goal posts keep moving, maybe that fast nice new car ain&rsquo;t work the $60k+ you was gonna drop on it when you start seeing piece of beast equipment like this. i&rsquo;m certain that you could take this kind of local hardware inference and make it work for you and make way more than that back. right?</p>\n<img src=\"uploads/2026/69f18b79dd.webp\" width=\"600\" height=\"319\" alt=\"\">\n",
-				"content_text": "the goal posts keep moving, maybe that fast nice new car ain't work the $60k+ you was gonna drop on it when you start seeing piece of beast equipment like this. i'm certain that you could take this kind of local hardware inference and make it work for you and make way more than that back. right?\n\n<img src=\"uploads/2026/69f18b79dd.webp\" width=\"600\" height=\"319\" alt=\"\">\n",
+				"content_html": "<p>the goal posts keep moving, maybe that fast nice new car ain&rsquo;t work the $60k+ you was gonna drop on it when you start seeing piece of beast equipment like this. i&rsquo;m certain that you could take this kind of local hardware inference and make it work for you and make way more than that back. right?</p>\n<img src=\"uploads/2026/8c7c13b02e.webp\" width=\"600\" height=\"319\" alt=\"\">\n",
+				"content_text": "the goal posts keep moving, maybe that fast nice new car ain't work the $60k+ you was gonna drop on it when you start seeing piece of beast equipment like this. i'm certain that you could take this kind of local hardware inference and make it work for you and make way more than that back. right?\n\n<img src=\"uploads/2026/8c7c13b02e.webp\" width=\"600\" height=\"319\" alt=\"\">\n",
 				"date_published": "2026-08-19T10:30:26-04:00",
 				"url": "https://sett.ee/2026/08/19/the-goal-posts-keep-moving.html"
 			},
@@ -65,8 +65,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/08/18/this-is-an-area-that.html",
 				
-				"content_html": "<p>this is an area that i really want to get into, i think the majority of people won&rsquo;t use ai the same way as we addicts do but they will want the information all the same without the legwork and the constant customizing and changing and adding of endpoints and data.  i have a dashboard problem.</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/d145034a13.webp\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"content_text": "this is an area that i really want to get into, i think the majority of people won't use ai the same way as we addicts do but they will want the information all the same without the legwork and the constant customizing and changing and adding of endpoints and data.  i have a dashboard problem.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/d145034a13.webp\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>this is an area that i really want to get into, i think the majority of people won&rsquo;t use ai the same way as we addicts do but they will want the information all the same without the legwork and the constant customizing and changing and adding of endpoints and data.  i have a dashboard problem.</p>\n<img src=\"uploads/2026/87dcffb263.webp\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "this is an area that i really want to get into, i think the majority of people won't use ai the same way as we addicts do but they will want the information all the same without the legwork and the constant customizing and changing and adding of endpoints and data.  i have a dashboard problem.\n\n<img src=\"uploads/2026/87dcffb263.webp\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-08-18T15:56:43-04:00",
 				"url": "https://sett.ee/2026/08/18/this-is-an-area-that.html"
 			},
@@ -121,8 +121,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/08/12/years-ago-i-would-have.html",
 				
-				"content_html": "<p>years ago i would have spent months and months just messing around with setting up a blog. now i can use ai and fire up a super fast astro 7.2 blog, style it, customize it, have ai cloned voices and build a publish process from bear app direct to my blog. flow state bitches.</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/42684b00ea.webp\" width=\"600\" height=\"376\" alt=\"\">\n",
-				"content_text": "years ago i would have spent months and months just messing around with setting up a blog. now i can use ai and fire up a super fast astro 7.2 blog, style it, customize it, have ai cloned voices and build a publish process from bear app direct to my blog. flow state bitches.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/42684b00ea.webp\" width=\"600\" height=\"376\" alt=\"\">\n",
+				"content_html": "<p>years ago i would have spent months and months just messing around with setting up a blog. now i can use ai and fire up a super fast astro 7.2 blog, style it, customize it, have ai cloned voices and build a publish process from bear app direct to my blog. flow state bitches.</p>\n<img src=\"uploads/2026/10fb210839.webp\" width=\"600\" height=\"376\" alt=\"\">\n",
+				"content_text": "years ago i would have spent months and months just messing around with setting up a blog. now i can use ai and fire up a super fast astro 7.2 blog, style it, customize it, have ai cloned voices and build a publish process from bear app direct to my blog. flow state bitches.\n\n<img src=\"uploads/2026/10fb210839.webp\" width=\"600\" height=\"376\" alt=\"\">\n",
 				"date_published": "2026-08-12T09:04:13-04:00",
 				"url": "https://sett.ee/2026/08/12/years-ago-i-would-have.html"
 			},
@@ -1513,8 +1513,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/04/09/im-easily-swayed-into-trying.html",
 				
-				"content_html": "<p>I’m easily swayed into trying new drinks even though I know most of the time they are complete poison — I have to say the cloud latte banana 🍌 is tasty but I’m not sure if they just rotted my insides in the process. it’s so hard to find good drinks these days.</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/1ec447d7be.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "I’m easily swayed into trying new drinks even though I know most of the time they are complete poison — I have to say the cloud latte banana 🍌 is tasty but I’m not sure if they just rotted my insides in the process. it’s so hard to find good drinks these days.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/1ec447d7be.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>I’m easily swayed into trying new drinks even though I know most of the time they are complete poison — I have to say the cloud latte banana 🍌 is tasty but I’m not sure if they just rotted my insides in the process. it’s so hard to find good drinks these days.</p>\n<img src=\"uploads/2026/818f41ae78.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I’m easily swayed into trying new drinks even though I know most of the time they are complete poison — I have to say the cloud latte banana 🍌 is tasty but I’m not sure if they just rotted my insides in the process. it’s so hard to find good drinks these days.\n\n<img src=\"uploads/2026/818f41ae78.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-09T11:20:22-04:00",
 				"url": "https://sett.ee/2026/04/09/im-easily-swayed-into-trying.html"
 			},
@@ -1737,8 +1737,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/03/11/cause-its-high-time-for.html",
 				
-				"content_html": "<p>&lsquo;cause it&rsquo;s high time for hypersonic missles! good old sam fender, he knows how to get the meerkat wednesday vibes going over here. lovely morning, sunshine, great coffee and vibes.  virtual video meeting then locking in for video/audio for today. how&rsquo;s it hanging? bet the uk dragonfire is rocking!</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/5b09dfea6e.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "'cause it's high time for hypersonic missles! good old sam fender, he knows how to get the meerkat wednesday vibes going over here. lovely morning, sunshine, great coffee and vibes.  virtual video meeting then locking in for video/audio for today. how's it hanging? bet the uk dragonfire is rocking!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/5b09dfea6e.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>&lsquo;cause it&rsquo;s high time for hypersonic missles! good old sam fender, he knows how to get the meerkat wednesday vibes going over here. lovely morning, sunshine, great coffee and vibes.  virtual video meeting then locking in for video/audio for today. how&rsquo;s it hanging? bet the uk dragonfire is rocking!</p>\n<img src=\"uploads/2026/c797b63dbf.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "'cause it's high time for hypersonic missles! good old sam fender, he knows how to get the meerkat wednesday vibes going over here. lovely morning, sunshine, great coffee and vibes.  virtual video meeting then locking in for video/audio for today. how's it hanging? bet the uk dragonfire is rocking!\n\n<img src=\"uploads/2026/c797b63dbf.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-11T11:00:47-04:00",
 				"url": "https://sett.ee/2026/03/11/cause-its-high-time-for.html"
 			},
@@ -2009,8 +2009,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/02/07/sunday-is-my-favorite-computer.html",
 				
-				"content_html": "<p>sunday is my favorite computer time day because it’s perfect for taking to plan out what you are going to focus your time on. at the moment we are trying to deploy our every day systems because the weather has made that a littler miserable. we are working on it though, lots to do.</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/1fc69280f1.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "sunday is my favorite computer time day because it’s perfect for taking to plan out what you are going to focus your time on. at the moment we are trying to deploy our every day systems because the weather has made that a littler miserable. we are working on it though, lots to do.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/1fc69280f1.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>sunday is my favorite computer time day because it’s perfect for taking to plan out what you are going to focus your time on. at the moment we are trying to deploy our every day systems because the weather has made that a littler miserable. we are working on it though, lots to do.</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/6ca141ff8e.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "sunday is my favorite computer time day because it’s perfect for taking to plan out what you are going to focus your time on. at the moment we are trying to deploy our every day systems because the weather has made that a littler miserable. we are working on it though, lots to do.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/6ca141ff8e.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-07T19:11:05-04:00",
 				"url": "https://sett.ee/2026/02/07/sunday-is-my-favorite-computer.html"
 			},
@@ -2161,8 +2161,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/01/27/it-sucks-know-im-the.html",
 				
-				"content_html": "<p>it sucks know i&rsquo;m the bottleneck now from keyboard/mouse &ndash; i&rsquo;m gonna cheer myself up by secure/hardening a clawdbot on a vps and have a tinker with that as well as everything else the day might bring, it&rsquo;s taco tuesday baby. firing up all the engines, espresso shortly, got good sleeps. make it so!</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/0c9244d437.webp\" width=\"600\" height=\"448\" alt=\"\">\n",
-				"content_text": "it sucks know i'm the bottleneck now from keyboard/mouse -- i'm gonna cheer myself up by secure/hardening a clawdbot on a vps and have a tinker with that as well as everything else the day might bring, it's taco tuesday baby. firing up all the engines, espresso shortly, got good sleeps. make it so!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/0c9244d437.webp\" width=\"600\" height=\"448\" alt=\"\">\n",
+				"content_html": "<p>it sucks know i&rsquo;m the bottleneck now from keyboard/mouse &ndash; i&rsquo;m gonna cheer myself up by secure/hardening a clawdbot on a vps and have a tinker with that as well as everything else the day might bring, it&rsquo;s taco tuesday baby. firing up all the engines, espresso shortly, got good sleeps. make it so!</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/a1f8bb5e8c.webp\" width=\"600\" height=\"448\" alt=\"\">\n",
+				"content_text": "it sucks know i'm the bottleneck now from keyboard/mouse -- i'm gonna cheer myself up by secure/hardening a clawdbot on a vps and have a tinker with that as well as everything else the day might bring, it's taco tuesday baby. firing up all the engines, espresso shortly, got good sleeps. make it so!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/a1f8bb5e8c.webp\" width=\"600\" height=\"448\" alt=\"\">\n",
 				"date_published": "2026-01-27T10:21:31-04:00",
 				"url": "https://sett.ee/2026/01/27/it-sucks-know-im-the.html"
 			},
@@ -2705,8 +2705,8 @@
 			{
 				"id": "http://humble.micro.blog/2025/12/08/not-that-im-a-big.html",
 				
-				"content_html": "<p>not that I’m a big drinker these days because I’m really not but it was nice to see I can get some of the classic whiskies that my dad introduced me too when I was younger and the differences, I’ll probably pick one up for Christmas and the New Year just to go alongside the dinners ;)</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/29b982f7cc.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "not that I’m a big drinker these days because I’m really not but it was nice to see I can get some of the classic whiskies that my dad introduced me too when I was younger and the differences, I’ll probably pick one up for Christmas and the New Year just to go alongside the dinners ;) \n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/29b982f7cc.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>not that I’m a big drinker these days because I’m really not but it was nice to see I can get some of the classic whiskies that my dad introduced me too when I was younger and the differences, I’ll probably pick one up for Christmas and the New Year just to go alongside the dinners ;)</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/62303e9fc7.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "not that I’m a big drinker these days because I’m really not but it was nice to see I can get some of the classic whiskies that my dad introduced me too when I was younger and the differences, I’ll probably pick one up for Christmas and the New Year just to go alongside the dinners ;) \n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/62303e9fc7.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-12-08T07:19:00-04:00",
 				"url": "https://sett.ee/2025/12/08/not-that-im-a-big.html"
 			},
@@ -3708,8 +3708,8 @@
 			{
 				"id": "http://humble.micro.blog/2025/10/01/here-we-go-into-the.html",
 				
-				"content_html": "<p>here we go into the breach my friends. october just showed up like that, september flew, end of the year and mad dash christmas shopping will be next, until then, fire up the gpus and let&rsquo;s render something different. trying to find my feet again, spent few hours debugging that lag, such is life.</p>\n<img src=\"uploads/2026/d6afee5d14.webp\" width=\"600\" height=\"548\" alt=\"\">\n",
-				"content_text": "here we go into the breach my friends. october just showed up like that, september flew, end of the year and mad dash christmas shopping will be next, until then, fire up the gpus and let's render something different. trying to find my feet again, spent few hours debugging that lag, such is life.\n\n<img src=\"uploads/2026/d6afee5d14.webp\" width=\"600\" height=\"548\" alt=\"\">\n",
+				"content_html": "<p>here we go into the breach my friends. october just showed up like that, september flew, end of the year and mad dash christmas shopping will be next, until then, fire up the gpus and let&rsquo;s render something different. trying to find my feet again, spent few hours debugging that lag, such is life.</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/a02e96cba6.webp\" width=\"600\" height=\"548\" alt=\"\">\n",
+				"content_text": "here we go into the breach my friends. october just showed up like that, september flew, end of the year and mad dash christmas shopping will be next, until then, fire up the gpus and let's render something different. trying to find my feet again, spent few hours debugging that lag, such is life.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/a02e96cba6.webp\" width=\"600\" height=\"548\" alt=\"\">\n",
 				"date_published": "2025-10-01T12:47:26-04:00",
 				"url": "https://sett.ee/2025/10/01/here-we-go-into-the.html"
 			},
@@ -4047,8 +4047,8 @@
 			{
 				"id": "http://humble.micro.blog/2025/09/13/remembering-the-time-we-had.html",
 				
-				"content_html": "<p>remembering the time we had these great street tacos delivered while coworking and also checking if my code is working for something else, man I’m straight hungry this morning — trying to muster up weekend energy in the middle of all of this, lots of change energy and timeline shifting, loki vibes.</p>\n<img src=\"uploads/2026/4b6bfb5064.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "remembering the time we had these great street tacos delivered while coworking and also checking if my code is working for something else, man I’m straight hungry this morning — trying to muster up weekend energy in the middle of all of this, lots of change energy and timeline shifting, loki vibes.\n\n<img src=\"uploads/2026/4b6bfb5064.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>remembering the time we had these great street tacos delivered while coworking and also checking if my code is working for something else, man I’m straight hungry this morning — trying to muster up weekend energy in the middle of all of this, lots of change energy and timeline shifting, loki vibes.</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/7412b88149.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "remembering the time we had these great street tacos delivered while coworking and also checking if my code is working for something else, man I’m straight hungry this morning — trying to muster up weekend energy in the middle of all of this, lots of change energy and timeline shifting, loki vibes.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/7412b88149.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-13T09:19:27-04:00",
 				"url": "https://sett.ee/2025/09/13/remembering-the-time-we-had.html"
 			},

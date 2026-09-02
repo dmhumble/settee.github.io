@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/09/01/feel-that-thats-fresh-month.html",
+				
+				"content_html": "<p>feel that? that&rsquo;s fresh month energy.</p>\n<p>taco tuesday on the first day of a fresh month.</p>\n<p>oh baby baby.</p>\n<p>also therapy day.</p>\n<p>it&rsquo;s like a meeting of the masses.</p>\n<img src=\"uploads/2026/c9e424eb17.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "feel that? that's fresh month energy.\r\n\r\ntaco tuesday on the first day of a fresh month. \r\n\r\noh baby baby.\r\n\r\nalso therapy day.\r\n\r\nit's like a meeting of the masses.\n\n<img src=\"uploads/2026/c9e424eb17.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-09-01T08:42:42-04:00",
+				"url": "https://sett.ee/2026/09/01/feel-that-thats-fresh-month.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/08/31/looks-like-i-should-be.html",
 				
 				"content_html": "<p>looks like i should be looking for content ops or content operations work alongside my ugc work.</p>\n<p>definitely feel like i need to fuse together all the skills i enjoy and love to work on.</p>\n<p>i need to take some time to tidy all these things up.</p>\n<p>i have the vision, time to deploy it</p>\n<p>and let ai run it.</p>\n",
@@ -26,8 +34,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/08/31/i-think-we-hit-that.html",
 				
-				"content_html": "<p>i think we hit that stage where the computer was like, this ain&rsquo;t working, let me grab the human and fuse them together with me, i can&rsquo;t get things the way i need them to be so i&rsquo;ll augment myself. starting to think not all &ldquo;scaling&rdquo; problems actually need to be solved, questioned, definitely!</p>\n<img src=\"uploads/2026/paste-7b6f0fd8.webp\" width=\"482\" height=\"350\" alt=\"\">\n",
-				"content_text": "i think we hit that stage where the computer was like, this ain't working, let me grab the human and fuse them together with me, i can't get things the way i need them to be so i'll augment myself. starting to think not all \"scaling\" problems actually need to be solved, questioned, definitely!\n\n<img src=\"uploads/2026/paste-7b6f0fd8.webp\" width=\"482\" height=\"350\" alt=\"\">\n",
+				"content_html": "<p>i think we hit that stage where the computer was like, this ain&rsquo;t working, let me grab the human and fuse them together with me, i can&rsquo;t get things the way i need them to be so i&rsquo;ll augment myself. starting to think not all &ldquo;scaling&rdquo; problems actually need to be solved, questioned, definitely!</p>\n<img src=\"uploads/2026/361cdcf828.webp\" width=\"482\" height=\"350\" alt=\"\">\n",
+				"content_text": "i think we hit that stage where the computer was like, this ain't working, let me grab the human and fuse them together with me, i can't get things the way i need them to be so i'll augment myself. starting to think not all \"scaling\" problems actually need to be solved, questioned, definitely!\n\n<img src=\"uploads/2026/361cdcf828.webp\" width=\"482\" height=\"350\" alt=\"\">\n",
 				"date_published": "2026-08-31T13:54:05-04:00",
 				"url": "https://sett.ee/2026/08/31/i-think-we-hit-that.html"
 			},
@@ -42,8 +50,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/08/31/im-not-sure-where-we.html",
 				
-				"content_html": "<p>i&rsquo;m not sure where we go after this.</p>\n<p>infinite content, rendering at extremely fast speeds, audience can write a prompt and that&rsquo;s qued up to be part of the stream.</p>\n<p>never. ending. content.</p>\n<p>how do we feel about that.</p>\n<p>what happens when we feed in existing content.</p>\n<p>new infinite episodes.</p>\n<p>phew.</p>\n<img src=\"uploads/2026/11c84da3ec.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "i'm not sure where we go after this.\r\n\r\ninfinite content, rendering at extremely fast speeds, audience can write a prompt and that's qued up to be part of the stream.\r\n\r\nnever. ending. content.\r\n\r\nhow do we feel about that.\r\n\r\nwhat happens when we feed in existing content.\r\n\r\nnew infinite episodes.\r\n\r\nphew.\n\n<img src=\"uploads/2026/11c84da3ec.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>i&rsquo;m not sure where we go after this.</p>\n<p>infinite content, rendering at extremely fast speeds, audience can write a prompt and that&rsquo;s qued up to be part of the stream.</p>\n<p>never. ending. content.</p>\n<p>how do we feel about that.</p>\n<p>what happens when we feed in existing content.</p>\n<p>new infinite episodes.</p>\n<p>phew.</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/11c84da3ec.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "i'm not sure where we go after this.\r\n\r\ninfinite content, rendering at extremely fast speeds, audience can write a prompt and that's qued up to be part of the stream.\r\n\r\nnever. ending. content.\r\n\r\nhow do we feel about that.\r\n\r\nwhat happens when we feed in existing content.\r\n\r\nnew infinite episodes.\r\n\r\nphew.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/11c84da3ec.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-31T11:14:16-04:00",
 				"url": "https://sett.ee/2026/08/31/im-not-sure-where-we.html"
 			},
@@ -74,16 +82,16 @@
 			{
 				"id": "http://humble.micro.blog/2026/08/25/im-making-insane-progress-with.html",
 				
-				"content_html": "<p>i&rsquo;m making insane progress with the video posting tool for micro.blog for macOS, i cannot wait to release/sell this and talk about it on my youtube channel, i really need to get all my eggs in a row, it&rsquo;s got some great features - click, record, ai transcribe and post to micro.blog! :)</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/390f1ff582.webp\" width=\"600\" height=\"307\" alt=\"\">\n",
-				"content_text": "i'm making insane progress with the video posting tool for micro.blog for macOS, i cannot wait to release/sell this and talk about it on my youtube channel, i really need to get all my eggs in a row, it's got some great features - click, record, ai transcribe and post to micro.blog! :)\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/390f1ff582.webp\" width=\"600\" height=\"307\" alt=\"\">\n",
+				"content_html": "<p>i&rsquo;m making insane progress with the video posting tool for micro.blog for macOS, i cannot wait to release/sell this and talk about it on my youtube channel, i really need to get all my eggs in a row, it&rsquo;s got some great features - click, record, ai transcribe and post to micro.blog! :)</p>\n<img src=\"uploads/2026/19c4bcb4d4.webp\" width=\"600\" height=\"307\" alt=\"\">\n",
+				"content_text": "i'm making insane progress with the video posting tool for micro.blog for macOS, i cannot wait to release/sell this and talk about it on my youtube channel, i really need to get all my eggs in a row, it's got some great features - click, record, ai transcribe and post to micro.blog! :)\n\n<img src=\"uploads/2026/19c4bcb4d4.webp\" width=\"600\" height=\"307\" alt=\"\">\n",
 				"date_published": "2026-08-25T08:59:13-04:00",
 				"url": "https://sett.ee/2026/08/25/im-making-insane-progress-with.html"
 			},
 			{
 				"id": "http://humble.micro.blog/2026/08/24/i-took-some-of-the.html",
 				
-				"content_html": "<p>i took some of the methodology of &ldquo;gauntlet loops&rdquo; for macOS swift app creation.</p>\n<p>i also fed it and built out a bunch of skills that it can use that basically has deep dived all the existing app building context.</p>\n<p>it&rsquo;s on round 9.  i&rsquo;m loving this! :)</p>\n<img src=\"uploads/2026/e3b5d3649f.webp\" width=\"600\" height=\"313\" alt=\"\">\n",
-				"content_text": "i took some of the methodology of \"gauntlet loops\" for macOS swift app creation.\n\ni also fed it and built out a bunch of skills that it can use that basically has deep dived all the existing app building context.\n\nit's on round 9.  i'm loving this! :)\n\n<img src=\"uploads/2026/e3b5d3649f.webp\" width=\"600\" height=\"313\" alt=\"\">\n",
+				"content_html": "<p>i took some of the methodology of &ldquo;gauntlet loops&rdquo; for macOS swift app creation.</p>\n<p>i also fed it and built out a bunch of skills that it can use that basically has deep dived all the existing app building context.</p>\n<p>it&rsquo;s on round 9.  i&rsquo;m loving this! :)</p>\n<img src=\"uploads/2026/2a31273949.webp\" width=\"600\" height=\"313\" alt=\"\">\n",
+				"content_text": "i took some of the methodology of \"gauntlet loops\" for macOS swift app creation.\n\ni also fed it and built out a bunch of skills that it can use that basically has deep dived all the existing app building context.\n\nit's on round 9.  i'm loving this! :)\n\n<img src=\"uploads/2026/2a31273949.webp\" width=\"600\" height=\"313\" alt=\"\">\n",
 				"date_published": "2026-08-24T11:28:06-04:00",
 				"url": "https://sett.ee/2026/08/24/i-took-some-of-the.html"
 			},
@@ -98,8 +106,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/08/19/the-goal-posts-keep-moving.html",
 				
-				"content_html": "<p>the goal posts keep moving, maybe that fast nice new car ain&rsquo;t work the $60k+ you was gonna drop on it when you start seeing piece of beast equipment like this. i&rsquo;m certain that you could take this kind of local hardware inference and make it work for you and make way more than that back. right?</p>\n<img src=\"uploads/2026/4c6beb2493.webp\" width=\"600\" height=\"319\" alt=\"\">\n",
-				"content_text": "the goal posts keep moving, maybe that fast nice new car ain't work the $60k+ you was gonna drop on it when you start seeing piece of beast equipment like this. i'm certain that you could take this kind of local hardware inference and make it work for you and make way more than that back. right?\n\n<img src=\"uploads/2026/4c6beb2493.webp\" width=\"600\" height=\"319\" alt=\"\">\n",
+				"content_html": "<p>the goal posts keep moving, maybe that fast nice new car ain&rsquo;t work the $60k+ you was gonna drop on it when you start seeing piece of beast equipment like this. i&rsquo;m certain that you could take this kind of local hardware inference and make it work for you and make way more than that back. right?</p>\n<img src=\"uploads/2026/4dd2be38ab.webp\" width=\"600\" height=\"319\" alt=\"\">\n",
+				"content_text": "the goal posts keep moving, maybe that fast nice new car ain't work the $60k+ you was gonna drop on it when you start seeing piece of beast equipment like this. i'm certain that you could take this kind of local hardware inference and make it work for you and make way more than that back. right?\n\n<img src=\"uploads/2026/4dd2be38ab.webp\" width=\"600\" height=\"319\" alt=\"\">\n",
 				"date_published": "2026-08-19T10:30:26-04:00",
 				"url": "https://sett.ee/2026/08/19/the-goal-posts-keep-moving.html"
 			},
@@ -1570,8 +1578,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/04/09/im-easily-swayed-into-trying.html",
 				
-				"content_html": "<p>I’m easily swayed into trying new drinks even though I know most of the time they are complete poison — I have to say the cloud latte banana 🍌 is tasty but I’m not sure if they just rotted my insides in the process. it’s so hard to find good drinks these days.</p>\n<img src=\"uploads/2026/c53bc88299.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "I’m easily swayed into trying new drinks even though I know most of the time they are complete poison — I have to say the cloud latte banana 🍌 is tasty but I’m not sure if they just rotted my insides in the process. it’s so hard to find good drinks these days.\n\n<img src=\"uploads/2026/c53bc88299.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>I’m easily swayed into trying new drinks even though I know most of the time they are complete poison — I have to say the cloud latte banana 🍌 is tasty but I’m not sure if they just rotted my insides in the process. it’s so hard to find good drinks these days.</p>\n<img src=\"uploads/2026/53152a225c.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I’m easily swayed into trying new drinks even though I know most of the time they are complete poison — I have to say the cloud latte banana 🍌 is tasty but I’m not sure if they just rotted my insides in the process. it’s so hard to find good drinks these days.\n\n<img src=\"uploads/2026/53152a225c.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-09T11:20:22-04:00",
 				"url": "https://sett.ee/2026/04/09/im-easily-swayed-into-trying.html"
 			},
@@ -1794,8 +1802,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/03/11/cause-its-high-time-for.html",
 				
-				"content_html": "<p>&lsquo;cause it&rsquo;s high time for hypersonic missles! good old sam fender, he knows how to get the meerkat wednesday vibes going over here. lovely morning, sunshine, great coffee and vibes.  virtual video meeting then locking in for video/audio for today. how&rsquo;s it hanging? bet the uk dragonfire is rocking!</p>\n<img src=\"uploads/2026/7726802d70.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "'cause it's high time for hypersonic missles! good old sam fender, he knows how to get the meerkat wednesday vibes going over here. lovely morning, sunshine, great coffee and vibes.  virtual video meeting then locking in for video/audio for today. how's it hanging? bet the uk dragonfire is rocking!\n\n<img src=\"uploads/2026/7726802d70.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>&lsquo;cause it&rsquo;s high time for hypersonic missles! good old sam fender, he knows how to get the meerkat wednesday vibes going over here. lovely morning, sunshine, great coffee and vibes.  virtual video meeting then locking in for video/audio for today. how&rsquo;s it hanging? bet the uk dragonfire is rocking!</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/7726802d70.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "'cause it's high time for hypersonic missles! good old sam fender, he knows how to get the meerkat wednesday vibes going over here. lovely morning, sunshine, great coffee and vibes.  virtual video meeting then locking in for video/audio for today. how's it hanging? bet the uk dragonfire is rocking!\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/7726802d70.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-11T11:00:47-04:00",
 				"url": "https://sett.ee/2026/03/11/cause-its-high-time-for.html"
 			},
@@ -2058,8 +2066,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/02/08/just-sitting-down-to-watch.html",
 				
-				"content_html": "<p>just sitting down to watch superbowl sixty on the tv, as you can expect it’s full on captured audience time, advertising aura maxxing. full on, streaming from the bay! also I’m learning about how the game operates in real time, yep that’s me.</p>\n<img src=\"uploads/2026/670844eaa5.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "just sitting down to watch superbowl sixty on the tv, as you can expect it’s full on captured audience time, advertising aura maxxing. full on, streaming from the bay! also I’m learning about how the game operates in real time, yep that’s me.\n\n<img src=\"uploads/2026/670844eaa5.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>just sitting down to watch superbowl sixty on the tv, as you can expect it’s full on captured audience time, advertising aura maxxing. full on, streaming from the bay! also I’m learning about how the game operates in real time, yep that’s me.</p>\n<img src=\"uploads/2026/0d7ef08dcc.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "just sitting down to watch superbowl sixty on the tv, as you can expect it’s full on captured audience time, advertising aura maxxing. full on, streaming from the bay! also I’m learning about how the game operates in real time, yep that’s me.\n\n<img src=\"uploads/2026/0d7ef08dcc.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-08T19:41:10-04:00",
 				"url": "https://sett.ee/2026/02/08/just-sitting-down-to-watch.html"
 			},

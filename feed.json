@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://humble.micro.blog/2026/09/14/im-working-on-flow-state.html",
+				
+				"content_html": "<p>i&rsquo;m working on flow state this week. so many things, all slightly out of reach, all need a little nudge like a paper boat in a stream. kinetic energy, just a little, a piezo amount from the fingers into the amplifier than is the llm, navigating life lag between the peaks.</p>\n",
+				"content_text": "i'm working on flow state this week. so many things, all slightly out of reach, all need a little nudge like a paper boat in a stream. kinetic energy, just a little, a piezo amount from the fingers into the amplifier than is the llm, navigating life lag between the peaks.\n",
+				"date_published": "2026-09-14T14:42:06-04:00",
+				"url": "https://sett.ee/2026/09/14/im-working-on-flow-state.html"
+			},
+			{
+				"id": "http://humble.micro.blog/2026/09/14/progress-with-this-obs-app.html",
+				
+				"content_html": "<p>progress with this obs app is going well, got it running over local network so at least I can do some optimisations from here, this is gonna be kinda rad ;)</p>\n<p>basically one click to connect to a different source in someone’s obs and they can turn that on and off when they want someone in the show.</p>\n<p><video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"720\" height=\"720\" poster=\"https://sett.ee/uploads/2026/891dde16eb.webp\" src=\"https://sett.ee/uploads/2026/img-4340.mov\"></video></p>\n",
+				"content_text": "progress with this obs app is going well, got it running over local network so at least I can do some optimisations from here, this is gonna be kinda rad ;) \n\nbasically one click to connect to a different source in someone’s obs and they can turn that on and off when they want someone in the show. \n\n<video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"720\" height=\"720\" poster=\"https://sett.ee/uploads/2026/891dde16eb.webp\" src=\"https://sett.ee/uploads/2026/img-4340.mov\"></video>\n",
+				"date_published": "2026-09-14T11:20:05-04:00",
+				"url": "https://sett.ee/2026/09/14/progress-with-this-obs-app.html"
+			},
+			{
 				"id": "http://humble.micro.blog/2026/09/11/details-are-really-important-when.html",
 				
 				"content_html": "<p>details are really important when it comes to features. .. .</p>\n<p>.. .thinking how the user will like the simple touches.</p>\n<p>but also, things need to be fun, we like fun, even in my fifties.</p>\n<p><video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"3000\" height=\"700\" poster=\"https://eu.uploads.micro.blog/244471/2026/frames/1850969-0-44b6bb.jpg\" src=\"https://cdn.uploads.micro.mov/244471/2026/details-are-important/playlist.m3u8\"></video></p>\n",
@@ -34,8 +50,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/09/10/im-realising-that-my-future.html",
 				
-				"content_html": "<p>i&rsquo;m realising that my future might be more morgan freeman than i expected.</p>\n<img src=\"uploads/2026/331162adcd.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "i'm realising that my future might be more morgan freeman than i expected.\n\n<img src=\"uploads/2026/331162adcd.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>i&rsquo;m realising that my future might be more morgan freeman than i expected.</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/331162adcd.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "i'm realising that my future might be more morgan freeman than i expected.\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/331162adcd.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-09-10T12:25:00-04:00",
 				"url": "https://sett.ee/2026/09/10/im-realising-that-my-future.html"
 			},
@@ -75,16 +91,16 @@
 			{
 				"id": "http://humble.micro.blog/2026/08/31/i-think-we-hit-that.html",
 				
-				"content_html": "<p>i think we hit that stage where the computer was like, this ain&rsquo;t working, let me grab the human and fuse them together with me, i can&rsquo;t get things the way i need them to be so i&rsquo;ll augment myself. starting to think not all &ldquo;scaling&rdquo; problems actually need to be solved, questioned, definitely!</p>\n<img src=\"uploads/2026/b1bd758c0c.webp\" width=\"482\" height=\"350\" alt=\"\">\n",
-				"content_text": "i think we hit that stage where the computer was like, this ain't working, let me grab the human and fuse them together with me, i can't get things the way i need them to be so i'll augment myself. starting to think not all \"scaling\" problems actually need to be solved, questioned, definitely!\n\n<img src=\"uploads/2026/b1bd758c0c.webp\" width=\"482\" height=\"350\" alt=\"\">\n",
+				"content_html": "<p>i think we hit that stage where the computer was like, this ain&rsquo;t working, let me grab the human and fuse them together with me, i can&rsquo;t get things the way i need them to be so i&rsquo;ll augment myself. starting to think not all &ldquo;scaling&rdquo; problems actually need to be solved, questioned, definitely!</p>\n<img src=\"uploads/2026/4e3bb8194f.webp\" width=\"482\" height=\"350\" alt=\"\">\n",
+				"content_text": "i think we hit that stage where the computer was like, this ain't working, let me grab the human and fuse them together with me, i can't get things the way i need them to be so i'll augment myself. starting to think not all \"scaling\" problems actually need to be solved, questioned, definitely!\n\n<img src=\"uploads/2026/4e3bb8194f.webp\" width=\"482\" height=\"350\" alt=\"\">\n",
 				"date_published": "2026-08-31T13:54:05-04:00",
 				"url": "https://sett.ee/2026/08/31/i-think-we-hit-that.html"
 			},
 			{
 				"id": "http://humble.micro.blog/2026/08/31/the-term-ondemand-is-going.html",
 				
-				"content_html": "<p>the term on-demand is going to change massively.</p>\n<p>with local ai inference, a smart plan, backup batteries, solar.</p>\n<p>keeping things running around the clock will become an art form in itself.</p>\n<p>live streaming is about to have it&rsquo;s moment.</p>\n<p>no more 15 minutes of fame, just firehose.</p>\n<p>ai blended content</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/d9840fd363.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "the term on-demand is going to change massively.\r\n\r\nwith local ai inference, a smart plan, backup batteries, solar.\r\n\r\nkeeping things running around the clock will become an art form in itself.\r\n\r\nlive streaming is about to have it's moment.\r\n\r\nno more 15 minutes of fame, just firehose.\r\n\r\nai blended content\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/d9840fd363.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>the term on-demand is going to change massively.</p>\n<p>with local ai inference, a smart plan, backup batteries, solar.</p>\n<p>keeping things running around the clock will become an art form in itself.</p>\n<p>live streaming is about to have it&rsquo;s moment.</p>\n<p>no more 15 minutes of fame, just firehose.</p>\n<p>ai blended content</p>\n<img src=\"uploads/2026/d9840fd363.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "the term on-demand is going to change massively.\r\n\r\nwith local ai inference, a smart plan, backup batteries, solar.\r\n\r\nkeeping things running around the clock will become an art form in itself.\r\n\r\nlive streaming is about to have it's moment.\r\n\r\nno more 15 minutes of fame, just firehose.\r\n\r\nai blended content\n\n<img src=\"uploads/2026/d9840fd363.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-31T11:54:37-04:00",
 				"url": "https://sett.ee/2026/08/31/the-term-ondemand-is-going.html"
 			},
@@ -131,8 +147,8 @@
 			{
 				"id": "http://humble.micro.blog/2026/08/24/i-took-some-of-the.html",
 				
-				"content_html": "<p>i took some of the methodology of &ldquo;gauntlet loops&rdquo; for macOS swift app creation.</p>\n<p>i also fed it and built out a bunch of skills that it can use that basically has deep dived all the existing app building context.</p>\n<p>it&rsquo;s on round 9.  i&rsquo;m loving this! :)</p>\n<img src=\"https://eu.uploads.micro.blog/244471/2026/cf5b17e45b.webp\" width=\"600\" height=\"313\" alt=\"\">\n",
-				"content_text": "i took some of the methodology of \"gauntlet loops\" for macOS swift app creation.\n\ni also fed it and built out a bunch of skills that it can use that basically has deep dived all the existing app building context.\n\nit's on round 9.  i'm loving this! :)\n\n<img src=\"https://eu.uploads.micro.blog/244471/2026/cf5b17e45b.webp\" width=\"600\" height=\"313\" alt=\"\">\n",
+				"content_html": "<p>i took some of the methodology of &ldquo;gauntlet loops&rdquo; for macOS swift app creation.</p>\n<p>i also fed it and built out a bunch of skills that it can use that basically has deep dived all the existing app building context.</p>\n<p>it&rsquo;s on round 9.  i&rsquo;m loving this! :)</p>\n<img src=\"uploads/2026/cf5b17e45b.webp\" width=\"600\" height=\"313\" alt=\"\">\n",
+				"content_text": "i took some of the methodology of \"gauntlet loops\" for macOS swift app creation.\n\ni also fed it and built out a bunch of skills that it can use that basically has deep dived all the existing app building context.\n\nit's on round 9.  i'm loving this! :)\n\n<img src=\"uploads/2026/cf5b17e45b.webp\" width=\"600\" height=\"313\" alt=\"\">\n",
 				"date_published": "2026-08-24T11:28:06-04:00",
 				"url": "https://sett.ee/2026/08/24/i-took-some-of-the.html"
 			},
